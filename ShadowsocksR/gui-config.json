@@ -548,7 +548,7 @@
 	"index" : 9,
 	"random" : false,
 	"global" : false,
-	"enabled" : true,
+	"enabled" : false,
 	"shareOverLan" : false,
 	"isDefault" : false,
 	"bypassWhiteList" : false,
