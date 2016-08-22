@@ -130,3 +130,10 @@ Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapp
 [2016-08-22 20:50:20] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
 [2016-08-22 20:52:33] ShadowsocksR started
 [2016-08-22 22:12:50] ShadowsocksR started
+[2016-08-23 01:43:46] ShadowsocksR started
+[2016-08-23 01:43:56] [Error]connect to update server error
+[2016-08-23 03:58:00] ShadowsocksR started
+[2016-08-23 03:58:10] [Error]connect to update server error
+[2016-08-23 04:59:11] [Warn]Proxy server [(139.162.30.235)] connection refused
+[2016-08-23 04:59:13] [Warn]Proxy server [(139.162.30.235)] connection refused
+[2016-08-23 05:18:21] ShadowsocksR started

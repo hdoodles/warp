@@ -109,7 +109,7 @@
 			"group" : "voncop",
 			"udp_over_tcp" : false,
 			"protocol" : "verify_sha1",
-			"enable" : true,
+			"enable" : false,
 			"id" : "78808C22A8C0D6525243832CA42CCC68"
 		},
 		{
@@ -543,12 +543,28 @@
 			"protocol" : "origin",
 			"enable" : false,
 			"id" : "D2F2D14C5423DA09FA24C6AD03555008"
+		},
+		{
+			"remarks" : "",
+			"server" : "139.162.30.235",
+			"server_port" : 8904,
+			"server_udp_port" : 0,
+			"password" : "ji9li7..",
+			"method" : "aes-256-cfb",
+			"obfs" : "tls1.2_ticket_auth",
+			"obfsparam" : "",
+			"remarks_base64" : "",
+			"group" : "SELF",
+			"udp_over_tcp" : false,
+			"protocol" : "auth_sha1_v2",
+			"enable" : true,
+			"id" : "8FB5B4A54C38F1F6E81E0416409F7323"
 		}
 	],
-	"index" : 9,
+	"index" : 34,
 	"random" : false,
 	"global" : false,
-	"enabled" : false,
+	"enabled" : true,
 	"shareOverLan" : false,
 	"isDefault" : false,
 	"bypassWhiteList" : false,

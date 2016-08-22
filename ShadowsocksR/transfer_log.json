@@ -28,8 +28,8 @@
 		"totalDownloadBytes" : 881045
 	},
 	"hk.voncop.top" : {
-		"totalUploadBytes" : 354345,
-		"totalDownloadBytes" : 11809311
+		"totalUploadBytes" : 1387110,
+		"totalDownloadBytes" : 23810093
 	},
 	"sg2.boomss.win" : {
 		"totalUploadBytes" : 47418,
@@ -134,5 +134,9 @@
 	"209.141.58.145" : {
 		"totalUploadBytes" : 1277204,
 		"totalDownloadBytes" : 32390132
+	},
+	"139.162.30.235" : {
+		"totalUploadBytes" : 17334698,
+		"totalDownloadBytes" : 135823340
 	}
 }
