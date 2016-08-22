@@ -13,7 +13,7 @@
 			"group" : "voncop",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "12583EBD2A348CC7F1303E78539F6FEE"
 		},
 		{
@@ -29,7 +29,7 @@
 			"group" : "voncop",
 			"udp_over_tcp" : false,
 			"protocol" : "verify_sha1",
-			"enable" : true,
+			"enable" : false,
 			"id" : "2F36592E64A93657DF581B1C60F55C4F"
 		},
 		{
@@ -45,7 +45,7 @@
 			"group" : "voncop",
 			"udp_over_tcp" : false,
 			"protocol" : "verify_sha1",
-			"enable" : true,
+			"enable" : false,
 			"id" : "A36B77042BC86D9A14CFD01BE1C764A6"
 		},
 		{
@@ -61,7 +61,7 @@
 			"group" : "voncop",
 			"udp_over_tcp" : false,
 			"protocol" : "verify_sha1",
-			"enable" : true,
+			"enable" : false,
 			"id" : "CE8C0EFDE88BD1092A9212CF5C340007"
 		},
 		{
@@ -77,7 +77,7 @@
 			"group" : "voncop",
 			"udp_over_tcp" : false,
 			"protocol" : "verify_sha1",
-			"enable" : true,
+			"enable" : false,
 			"id" : "D62906210B04E840EC2ECC10352578AA"
 		},
 		{
@@ -93,7 +93,7 @@
 			"group" : "voncop",
 			"udp_over_tcp" : false,
 			"protocol" : "verify_sha1",
-			"enable" : true,
+			"enable" : false,
 			"id" : "9A7B76D270C35DE74E33249AC35DA25C"
 		},
 		{
@@ -125,7 +125,7 @@
 			"group" : "boomss",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "DBD26DA975B9B3F9B525AE94C7310BB9"
 		},
 		{
@@ -141,7 +141,7 @@
 			"group" : "boomss",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "AAD5CFEE31DD632C412EF67DBA73831F"
 		},
 		{
@@ -157,7 +157,7 @@
 			"group" : "boomss",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "F4FB12EFFA44390A4243A75D8BB52D2F"
 		},
 		{
@@ -173,7 +173,7 @@
 			"group" : "boomss",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "203EE1D42CBC6852F9E264ED9775C2AF"
 		},
 		{
@@ -189,7 +189,7 @@
 			"group" : "boomss",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "6FB0B4FDA0F3EC0CBA7F4C9D899D3796"
 		},
 		{
@@ -205,7 +205,7 @@
 			"group" : "boomss",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "D45819BFCBD78083F7AA26B06D053607"
 		},
 		{
@@ -221,7 +221,7 @@
 			"group" : "boomss",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "BFE59FFE809E81918534A724AD6A9081"
 		},
 		{
@@ -237,7 +237,7 @@
 			"group" : "boomss",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "4AA2CDC211DC2A817F725D4DF7D194B4"
 		},
 		{
@@ -253,7 +253,7 @@
 			"group" : "boomss",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "5035C007B474A07428ECFC7C59E086A9"
 		},
 		{
@@ -269,7 +269,7 @@
 			"group" : "boomss",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "589ECF2DEF3F1412C1FF801DCC6CE80C"
 		},
 		{
@@ -285,7 +285,7 @@
 			"group" : "boomss",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "F23603DB983F190F761297D70B9731C9"
 		},
 		{
@@ -301,7 +301,7 @@
 			"group" : "boomss",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "55A4268F3D8A658ABA11C97586EF87BA"
 		},
 		{
@@ -317,7 +317,7 @@
 			"group" : "boomss",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "1ACB2ECD06D7740F5067190C58013D1A"
 		},
 		{
@@ -333,7 +333,7 @@
 			"group" : "boomss",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "0BDC6416E7D85718639EEB5EA4A2A2E3"
 		},
 		{
@@ -349,7 +349,7 @@
 			"group" : "boomss",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "53309416BE78B3AFAA0A763ACCC18E9B"
 		},
 		{
@@ -365,7 +365,7 @@
 			"group" : "boomss",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "EB7D76E03AC6CBD6604CD94964A12D7D"
 		},
 		{
@@ -381,7 +381,7 @@
 			"group" : "stormss",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "4977CBBF41B78A3FE72BDD1AD2AA7177"
 		},
 		{
@@ -397,7 +397,7 @@
 			"group" : "stormss",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "31BA93F17D11FFA282F972944FAD8994"
 		},
 		{
@@ -413,7 +413,7 @@
 			"group" : "stormss",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "42194D91710E740424D0F11282276AAC"
 		},
 		{
@@ -429,7 +429,7 @@
 			"group" : "stormss",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "594A2099FAFE88D6EBCDA6C02DC06691"
 		},
 		{
@@ -445,7 +445,7 @@
 			"group" : "stormss",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "A42B6E000001F88F3B352CFDF555AFA1"
 		},
 		{
@@ -461,7 +461,7 @@
 			"group" : "bydisk",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "9ACE2E6B6EBE6450B9A19D20E1FEEC03"
 		},
 		{
@@ -477,7 +477,7 @@
 			"group" : "bydisk",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "B87AF1C2CDD74E9207ABECC889FDB219"
 		},
 		{
@@ -493,7 +493,7 @@
 			"group" : "gfw.press",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "87BE2875CD3265CA4F97B719A95571C6"
 		},
 		{
@@ -509,7 +509,7 @@
 			"group" : "gfw.press",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "8ACA9DFEC06673A0D620DA41B39B8722"
 		},
 		{
@@ -525,7 +525,7 @@
 			"group" : "gfw.press",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "F9919F526C32B2209CA310B73BEC54A3"
 		},
 		{
@@ -541,7 +541,7 @@
 			"group" : "",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
-			"enable" : true,
+			"enable" : false,
 			"id" : "D2F2D14C5423DA09FA24C6AD03555008"
 		}
 	],

@@ -1,1 +1,2 @@
 github-windows.s3.amazonaws.com
+whatismyipaddress.com

@@ -12,8 +12,8 @@
 		"totalDownloadBytes" : 404745
 	},
 	"tw1.boomss.win" : {
-		"totalUploadBytes" : 16192353,
-		"totalDownloadBytes" : 395722228
+		"totalUploadBytes" : 16478725,
+		"totalDownloadBytes" : 403638706
 	},
 	"us1.voncop.top" : {
 		"totalUploadBytes" : 391233,
@@ -28,8 +28,8 @@
 		"totalDownloadBytes" : 881045
 	},
 	"hk.voncop.top" : {
-		"totalUploadBytes" : 131483,
-		"totalDownloadBytes" : 6737033
+		"totalUploadBytes" : 354345,
+		"totalDownloadBytes" : 11809311
 	},
 	"sg2.boomss.win" : {
 		"totalUploadBytes" : 47418,
@@ -76,32 +76,32 @@
 		"totalDownloadBytes" : 14997436
 	},
 	"sg5.vip.stormss.online" : {
-		"totalUploadBytes" : 12784605,
-		"totalDownloadBytes" : 205898226
+		"totalUploadBytes" : 12803078,
+		"totalDownloadBytes" : 207911490
 	},
 	"kr5.vip.stormss.online" : {
-		"totalUploadBytes" : 29118195,
-		"totalDownloadBytes" : 503501393
+		"totalUploadBytes" : 29132076,
+		"totalDownloadBytes" : 504482805
 	},
 	"jp5.vip.stormss.online" : {
-		"totalUploadBytes" : 3247649,
-		"totalDownloadBytes" : 20816744
+		"totalUploadBytes" : 4158752,
+		"totalDownloadBytes" : 39642754
 	},
 	"hk5.vip.stormss.online" : {
-		"totalUploadBytes" : 645946,
-		"totalDownloadBytes" : 21437002
+		"totalUploadBytes" : 648310,
+		"totalDownloadBytes" : 21446542
 	},
 	"us5.vip.stormss.online" : {
-		"totalUploadBytes" : 125520,
-		"totalDownloadBytes" : 1580856
+		"totalUploadBytes" : 140529,
+		"totalDownloadBytes" : 2609844
 	},
 	"us3.ss.bydisk.com" : {
-		"totalUploadBytes" : 268636,
-		"totalDownloadBytes" : 5686010
+		"totalUploadBytes" : 270248,
+		"totalDownloadBytes" : 5698666
 	},
 	"us2.ss.bydisk.com" : {
-		"totalUploadBytes" : 70401,
-		"totalDownloadBytes" : 7712472
+		"totalUploadBytes" : 73907,
+		"totalDownloadBytes" : 8000930
 	},
 	"hk4.boomss.win" : {
 		"totalUploadBytes" : 289303,
@@ -132,7 +132,7 @@
 		"totalDownloadBytes" : 7986475
 	},
 	"209.141.58.145" : {
-		"totalUploadBytes" : 1214542,
-		"totalDownloadBytes" : 31799908
+		"totalUploadBytes" : 1277204,
+		"totalDownloadBytes" : 32390132
 	}
 }
