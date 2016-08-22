@@ -12,24 +12,24 @@
 		"totalDownloadBytes" : 404745
 	},
 	"tw1.boomss.win" : {
-		"totalUploadBytes" : 15889886,
-		"totalDownloadBytes" : 390379060
+		"totalUploadBytes" : 15912365,
+		"totalDownloadBytes" : 390904398
 	},
 	"us1.voncop.top" : {
 		"totalUploadBytes" : 391233,
 		"totalDownloadBytes" : 528065
 	},
 	"jp2.boomss.win" : {
-		"totalUploadBytes" : 195569,
-		"totalDownloadBytes" : 3583546
+		"totalUploadBytes" : 37102798,
+		"totalDownloadBytes" : 136680314
 	},
 	"us2.voncop.top" : {
 		"totalUploadBytes" : 26409,
 		"totalDownloadBytes" : 881045
 	},
 	"hk.voncop.top" : {
-		"totalUploadBytes" : 54598,
-		"totalDownloadBytes" : 128974
+		"totalUploadBytes" : 123891,
+		"totalDownloadBytes" : 6653621
 	},
 	"sg2.boomss.win" : {
 		"totalUploadBytes" : 47418,
@@ -48,8 +48,8 @@
 		"totalDownloadBytes" : 3752868
 	},
 	"ca.voncop.top" : {
-		"totalUploadBytes" : 48074,
-		"totalDownloadBytes" : 318181
+		"totalUploadBytes" : 51949,
+		"totalDownloadBytes" : 383318
 	},
 	"cn2.boomss.win" : {
 		"totalUploadBytes" : 8813,
@@ -72,24 +72,24 @@
 		"totalDownloadBytes" : 215330688
 	},
 	"jp1.boomss.win" : {
-		"totalUploadBytes" : 906353,
-		"totalDownloadBytes" : 12788018
+		"totalUploadBytes" : 922697,
+		"totalDownloadBytes" : 14997436
 	},
 	"sg5.vip.stormss.online" : {
-		"totalUploadBytes" : 12776831,
-		"totalDownloadBytes" : 205891820
+		"totalUploadBytes" : 12784605,
+		"totalDownloadBytes" : 205898226
 	},
 	"kr5.vip.stormss.online" : {
-		"totalUploadBytes" : 28576343,
-		"totalDownloadBytes" : 296268731
+		"totalUploadBytes" : 29118195,
+		"totalDownloadBytes" : 503501393
 	},
 	"jp5.vip.stormss.online" : {
-		"totalUploadBytes" : 378711,
-		"totalDownloadBytes" : 15072814
+		"totalUploadBytes" : 3247649,
+		"totalDownloadBytes" : 20816744
 	},
 	"hk5.vip.stormss.online" : {
-		"totalUploadBytes" : 643650,
-		"totalDownloadBytes" : 21244350
+		"totalUploadBytes" : 645946,
+		"totalDownloadBytes" : 21437002
 	},
 	"us5.vip.stormss.online" : {
 		"totalUploadBytes" : 125520,
@@ -128,7 +128,11 @@
 		"totalDownloadBytes" : 1445350
 	},
 	"jp.voncop.top" : {
-		"totalUploadBytes" : 249940,
-		"totalDownloadBytes" : 7464373
+		"totalUploadBytes" : 284411,
+		"totalDownloadBytes" : 7986475
+	},
+	"209.141.58.145" : {
+		"totalUploadBytes" : 1214542,
+		"totalDownloadBytes" : 31799908
 	}
 }

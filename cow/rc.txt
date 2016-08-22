@@ -7,7 +7,7 @@
 # 支持的 protocol 如下：
 #
 # HTTP (提供 http 代理):
-   listen = http://127.0.0.1:7777
+#  listen = http://127.0.0.1:7777
 #
 #   上面的例子中，cow 生成的 PAC url 为 http://127.0.0.1:7777/pac
 #   配置浏览器或系统 HTTP 和 HTTPS 代理时请填入该地址
@@ -56,7 +56,7 @@ listen = http://127.0.0.1:7777
 # 目前支持的二级代理及配置举例：
 #
 # SOCKS5:
-   proxy = socks5://127.0.0.1:2046
+ proxy = socks5://127.0.0.1:2046
 #
 # HTTP:
 #   proxy = http://127.0.0.1:8080
@@ -65,7 +65,7 @@ listen = http://127.0.0.1:7777
 #   用户认证信息为可选项
 #
 # shadowsocks:
-#   proxy = ss://encrypt_method:password@1.2.3.4:8388
+# proxy = ss://rc4-md5:only4drl141230@209.141.58.145:30009
 #   proxy = ss://encrypt_method-auth:password@1.2.3.4:8388
 #
 #   encrypt_method 添加 -auth 启用 One Time Auth

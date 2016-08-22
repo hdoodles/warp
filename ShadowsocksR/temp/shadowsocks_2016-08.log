@@ -56,3 +56,64 @@ Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapp
 [2016-08-21 21:09:57] [Warn]Proxy server [(kr5.vip.stormss.online)] connection refused
 [2016-08-21 21:56:46] ShadowsocksR started
 [2016-08-21 22:06:58] [Error]connect to update server error
+[2016-08-22 12:21:01] System.Exception: 端口已被占用
+   在 Shadowsocks.Controller.Listener.Start(Configuration config, Int32 port)
+   在 Shadowsocks.Controller.ShadowsocksController.Reload()
+[2016-08-22 12:21:02] Void LogUsefulException(System.Exception)
+Void Reload()
+Void Main(System.String[])
+
+[2016-08-22 12:21:32] ShadowsocksR started
+[2016-08-22 12:24:19] [Error]connect to update server error
+[2016-08-22 12:25:37] ShadowsocksR started
+[2016-08-22 12:29:55] ShadowsocksR started
+[2016-08-22 12:52:31] System.Exception: 端口已被占用
+   在 Shadowsocks.Controller.Listener.Start(Configuration config, Int32 port)
+   在 Shadowsocks.Controller.ShadowsocksController.Reload()
+[2016-08-22 12:52:31] Void LogUsefulException(System.Exception)
+Void Reload()
+Void Main(System.String[])
+
+[2016-08-22 12:52:38] ShadowsocksR started
+[2016-08-22 12:52:42] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:62661
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2016-08-22 12:52:42] Void LogUsefulException(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-22 12:52:42] System.InvalidOperationException: 进程已退出，因此无法处理请求。
+   在 System.Diagnostics.Process.GetProcessHandle(Int32 access, Boolean throwIfExited)
+   在 System.Diagnostics.Process.Kill()
+   在 Shadowsocks.Controller.HttpProxyRunner.Stop()
+[2016-08-22 12:52:43] ShadowsocksR started
+[2016-08-22 13:37:03] ShadowsocksR started
+[2016-08-22 13:49:14] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-22 13:49:14] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-22 13:56:35] ShadowsocksR started
+[2016-08-22 15:56:46] [Error]connect to update server error
+[2016-08-22 16:08:36] ShadowsocksR started
+[2016-08-22 17:27:23] System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   在 Shadowsocks.Controller.Listener.AcceptCallback(IAsyncResult ar)
