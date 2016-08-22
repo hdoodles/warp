@@ -27,7 +27,7 @@
 			"recent": "2016-08-22"
 		},
 		"106.2.184.233": {
-			"direct": 2,
+			"direct": 3,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
@@ -52,7 +52,7 @@
 			"recent": "2016-08-19"
 		},
 		"180.163.251.208": {
-			"direct": 5,
+			"direct": 7,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
@@ -217,9 +217,9 @@
 			"recent": "2016-08-19"
 		},
 		"api-public.addthis.com": {
-			"direct": 1,
+			"direct": 2,
 			"block": 0,
-			"recent": "2016-08-19"
+			"recent": "2016-08-22"
 		},
 		"api.bilibili.com": {
 			"direct": 2,
@@ -253,7 +253,7 @@
 		},
 		"apis.google.com": {
 			"direct": 0,
-			"block": 19,
+			"block": 20,
 			"recent": "2016-08-22"
 		},
 		"app.api.tongbu.com": {
@@ -271,13 +271,18 @@
 			"block": 0,
 			"recent": "2016-08-22"
 		},
+		"app.xincai.com": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-22"
+		},
 		"ask.csdn.net": {
 			"direct": 2,
 			"block": 0,
 			"recent": "2016-08-19"
 		},
 		"assets-cdn.github.com": {
-			"direct": 23,
+			"direct": 25,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
@@ -346,6 +351,11 @@
 			"block": 0,
 			"recent": "2016-08-19"
 		},
+		"baoku.360.cn": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-22"
+		},
 		"bbs.csdn.net": {
 			"direct": 7,
 			"block": 0,
@@ -397,7 +407,7 @@
 			"recent": "2016-08-22"
 		},
 		"c.cnzz.com": {
-			"direct": 17,
+			"direct": 18,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
@@ -567,7 +577,7 @@
 			"recent": "2016-08-22"
 		},
 		"cl.vd.f.360.cn": {
-			"direct": 3,
+			"direct": 4,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
@@ -603,7 +613,7 @@
 		},
 		"clients4.google.com": {
 			"direct": 0,
-			"block": 33,
+			"block": 34,
 			"recent": "2016-08-22"
 		},
 		"clients5.google.com": {
@@ -657,7 +667,7 @@
 			"recent": "2016-08-22"
 		},
 		"collector.githubapp.com": {
-			"direct": 3,
+			"direct": 4,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
@@ -1187,9 +1197,9 @@
 			"recent": "2016-08-19"
 		},
 		"hzs2.cnzz.com": {
-			"direct": 1,
+			"direct": 5,
 			"block": 0,
-			"recent": "2016-08-19"
+			"recent": "2016-08-22"
 		},
 		"hzs24.cnzz.com": {
 			"direct": 1,
@@ -1618,13 +1628,13 @@
 		},
 		"m.addthis.com": {
 			"direct": 0,
-			"block": 1,
-			"recent": "2016-08-19"
+			"block": 2,
+			"recent": "2016-08-22"
 		},
 		"m.addthisedge.com": {
-			"direct": 1,
-			"block": 0,
-			"recent": "2016-08-19"
+			"direct": 0,
+			"block": 1,
+			"recent": "2016-08-22"
 		},
 		"m.mfcimg.com": {
 			"direct": 4,
@@ -1635,6 +1645,11 @@
 			"direct": 2,
 			"block": 0,
 			"recent": "2016-08-19"
+		},
+		"m.tool.chinaz.com": {
+			"direct": 7,
+			"block": 0,
+			"recent": "2016-08-22"
 		},
 		"mail.google.com": {
 			"direct": 0,
@@ -1715,6 +1730,11 @@
 			"direct": 9,
 			"block": 0,
 			"recent": "2016-08-19"
+		},
+		"msch.f.360.cn": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-22"
 		},
 		"mtalk.google.com": {
 			"direct": 0,
@@ -1906,10 +1926,25 @@
 			"block": 0,
 			"recent": "2016-08-19"
 		},
+		"passport.97973.com": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-22"
+		},
 		"passport.csdn.net": {
 			"direct": 1,
 			"block": 0,
 			"recent": "2016-08-19"
+		},
+		"passport.sina.cn": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-22"
+		},
+		"passport.weibo.cn": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-22"
 		},
 		"pay.weltour.xyz": {
 			"direct": 1,
@@ -2118,11 +2153,11 @@
 		},
 		"recv1.conac.cn": {
 			"direct": 0,
-			"block": 13,
+			"block": 15,
 			"recent": "2016-08-22"
 		},
 		"recv2.conac.cn": {
-			"direct": 4,
+			"direct": 6,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
@@ -2143,6 +2178,11 @@
 		},
 		"res.qhcdn.com": {
 			"direct": 3,
+			"block": 0,
+			"recent": "2016-08-22"
+		},
+		"res.qhmsg.com": {
+			"direct": 1,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
@@ -2237,7 +2277,7 @@
 			"recent": "2016-08-19"
 		},
 		"s11.cnzz.com": {
-			"direct": 15,
+			"direct": 16,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
@@ -2292,9 +2332,9 @@
 			"recent": "2016-08-19"
 		},
 		"s7.addthis.com": {
-			"direct": 3,
-			"block": 0,
-			"recent": "2016-08-19"
+			"direct": 0,
+			"block": 3,
+			"recent": "2016-08-22"
 		},
 		"s8.51cto.com": {
 			"direct": 1,
@@ -2317,7 +2357,7 @@
 			"recent": "2016-08-22"
 		},
 		"sconf.f.360.cn": {
-			"direct": 1,
+			"direct": 2,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
@@ -2438,7 +2478,7 @@
 		},
 		"ssl.gstatic.com": {
 			"direct": 0,
-			"block": 11,
+			"block": 12,
 			"recent": "2016-08-22"
 		},
 		"sss.tongbu.com": {
@@ -2752,7 +2792,7 @@
 			"recent": "2016-08-22"
 		},
 		"updatem.360safe.com": {
-			"direct": 1,
+			"direct": 2,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
@@ -2795,6 +2835,11 @@
 			"direct": 6,
 			"block": 0,
 			"recent": "2016-08-19"
+		},
+		"vconf.f.360.cn": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-22"
 		},
 		"venmos-com.qiniudn.com": {
 			"direct": 6,
@@ -2885,6 +2930,11 @@
 			"direct": 5,
 			"block": 0,
 			"recent": "2016-08-19"
+		},
+		"www.17ce.com": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-22"
 		},
 		"www.1999.co.jp": {
 			"direct": 6,
@@ -3037,7 +3087,7 @@
 			"recent": "2016-08-19"
 		},
 		"www.dream4ever.org": {
-			"direct": 2,
+			"direct": 3,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
@@ -3078,12 +3128,12 @@
 		},
 		"www.google.com": {
 			"direct": 0,
-			"block": 59,
+			"block": 62,
 			"recent": "2016-08-22"
 		},
 		"www.google.com.tw": {
 			"direct": 0,
-			"block": 1,
+			"block": 2,
 			"recent": "2016-08-22"
 		},
 		"www.googleapis.com": {
@@ -3196,6 +3246,11 @@
 			"block": 11,
 			"recent": "2016-08-19"
 		},
+		"www.nirsoft.net": {
+			"direct": 6,
+			"block": 0,
+			"recent": "2016-08-22"
+		},
 		"www.nitroplus.co.jp": {
 			"direct": 90,
 			"block": 0,
@@ -3287,7 +3342,7 @@
 			"recent": "2016-08-19"
 		},
 		"www.yanglaocn.com": {
-			"direct": 80,
+			"direct": 100,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
@@ -3317,9 +3372,9 @@
 			"recent": "2016-08-19"
 		},
 		"wx.17ce.com": {
-			"direct": 5,
+			"direct": 10,
 			"block": 0,
-			"recent": "2016-08-19"
+			"recent": "2016-08-22"
 		},
 		"wx.qlogo.cn": {
 			"direct": 2,
