@@ -1,0 +1,58 @@
+[2016-08-20 01:11:56] ShadowsocksR started
+[2016-08-20 01:12:06] [Error]connect to update server error
+[2016-08-20 01:12:33] [Error]connect to update server error
+[2016-08-20 01:13:01] ShadowsocksR started
+[2016-08-20 01:28:57] [Warn]Proxy server [日本KDDI(jp.voncop.top)] connection refused
+[2016-08-20 01:32:37] [Warn]Proxy server [日本KDDI(jp.voncop.top)] connection refused
+[2016-08-20 01:32:38] [Warn]Proxy server [日本KDDI(jp.voncop.top)] connection refused
+[2016-08-20 01:44:41] ShadowsocksR started
+[2016-08-20 01:54:38] ShadowsocksR started
+[2016-08-20 02:03:21] ShadowsocksR started
+[2016-08-20 02:03:24] ShadowsocksR started
+[2016-08-20 02:08:34] [Error]connect to update server error
+[2016-08-20 03:00:54] ShadowsocksR started
+[2016-08-20 03:01:04] [Error]connect to update server error
+[2016-08-20 03:02:21] ShadowsocksR started
+[2016-08-20 03:02:31] [Error]connect to update server error
+[2016-08-20 03:17:41] [Warn]Proxy server [(hk5.vip.stormss.online)] connection refused
+[2016-08-20 03:17:43] [Warn]Proxy server [(hk5.vip.stormss.online)] connection refused
+[2016-08-20 04:31:40] ShadowsocksR started
+[2016-08-20 04:31:50] [Error]connect to update server error
+[2016-08-20 16:26:54] [Error]connect to update server error
+[2016-08-20 16:31:09] ShadowsocksR started
+[2016-08-20 16:33:20] [Error]connect to update server error
+[2016-08-20 18:35:38] [Error]connect to update server error
+[2016-08-20 19:49:36] ShadowsocksR started
+[2016-08-20 19:59:45] [Error]connect to update server error
+[2016-08-20 21:27:34] ShadowsocksR started
+[2016-08-20 21:32:44] [Error]connect to update server error
+[2016-08-21 01:32:49] [Error]connect to update server error
+[2016-08-21 10:52:04] ShadowsocksR started
+[2016-08-21 10:52:14] [Error]connect to update server error
+[2016-08-21 12:57:16] [Error]connect to update server error
+[2016-08-21 12:59:16] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-21 12:59:16] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-21 14:57:14] [Error]connect to update server error
+[2016-08-21 16:12:00] ShadowsocksR started
+[2016-08-21 16:12:10] [Error]connect to update server error
+[2016-08-21 20:17:11] [Error]connect to update server error
+[2016-08-21 21:09:52] [Warn]Proxy server [(kr5.vip.stormss.online)] connection refused
+[2016-08-21 21:09:53] [Warn]Proxy server [(kr5.vip.stormss.online)] connection refused
+[2016-08-21 21:09:54] [Warn]Proxy server [(kr5.vip.stormss.online)] connection refused
+[2016-08-21 21:09:56] [Warn]Proxy server [(kr5.vip.stormss.online)] connection refused
+[2016-08-21 21:09:57] [Warn]Proxy server [(kr5.vip.stormss.online)] connection refused
+[2016-08-21 21:56:46] ShadowsocksR started
+[2016-08-21 22:06:58] [Error]connect to update server error
