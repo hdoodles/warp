@@ -545,10 +545,10 @@
 			"id" : "D2F2D14C5423DA09FA24C6AD03555008"
 		}
 	],
-	"index" : 6,
+	"index" : 9,
 	"random" : false,
 	"global" : false,
-	"enabled" : false,
+	"enabled" : true,
 	"shareOverLan" : false,
 	"isDefault" : false,
 	"bypassWhiteList" : false,

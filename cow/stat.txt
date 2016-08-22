@@ -52,7 +52,7 @@
 			"recent": "2016-08-19"
 		},
 		"180.163.251.208": {
-			"direct": 4,
+			"direct": 5,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
@@ -176,6 +176,11 @@
 			"block": 0,
 			"recent": "2016-08-22"
 		},
+		"acdn.adnxs.com": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-22"
+		},
 		"acg.tv": {
 			"direct": 1,
 			"block": 0,
@@ -202,9 +207,9 @@
 			"recent": "2016-08-19"
 		},
 		"ajax.googleapis.com": {
-			"direct": 9,
+			"direct": 10,
 			"block": 0,
-			"recent": "2016-08-19"
+			"recent": "2016-08-22"
 		},
 		"alg.api.zbj.com": {
 			"direct": 1,
@@ -248,7 +253,7 @@
 		},
 		"apis.google.com": {
 			"direct": 0,
-			"block": 18,
+			"block": 19,
 			"recent": "2016-08-22"
 		},
 		"app.api.tongbu.com": {
@@ -332,8 +337,8 @@
 			"recent": "2016-08-19"
 		},
 		"b.scorecardresearch.com": {
-			"direct": 2,
-			"block": 0,
+			"direct": 0,
+			"block": 1,
 			"recent": "2016-08-22"
 		},
 		"bam.nr-data.net": {
@@ -412,7 +417,7 @@
 			"recent": "2016-08-19"
 		},
 		"c.msn.com": {
-			"direct": 1,
+			"direct": 2,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
@@ -598,7 +603,7 @@
 		},
 		"clients4.google.com": {
 			"direct": 0,
-			"block": 32,
+			"block": 33,
 			"recent": "2016-08-22"
 		},
 		"clients5.google.com": {
@@ -608,8 +613,8 @@
 		},
 		"clients6.google.com": {
 			"direct": 0,
-			"block": 1,
-			"recent": "2016-08-19"
+			"block": 2,
+			"recent": "2016-08-22"
 		},
 		"cm.g.doubleclick.net": {
 			"direct": 1,
@@ -677,7 +682,7 @@
 			"recent": "2016-08-22"
 		},
 		"crl.microsoft.com": {
-			"direct": 1,
+			"direct": 2,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
@@ -976,6 +981,11 @@
 			"block": 0,
 			"recent": "2016-08-19"
 		},
+		"findproxyforurl.com": {
+			"direct": 7,
+			"block": 0,
+			"recent": "2016-08-22"
+		},
 		"fonts-gstatic.lug.ustc.edu.cn": {
 			"direct": 13,
 			"block": 0,
@@ -987,12 +997,12 @@
 			"recent": "2016-08-19"
 		},
 		"fonts.googleapis.com": {
-			"direct": 13,
+			"direct": 14,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
 		"fonts.gstatic.com": {
-			"direct": 31,
+			"direct": 35,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
@@ -1128,8 +1138,8 @@
 		},
 		"hangouts.google.com": {
 			"direct": 0,
-			"block": 2,
-			"recent": "2016-08-19"
+			"block": 3,
+			"recent": "2016-08-22"
 		},
 		"hassankhan.me": {
 			"direct": 1,
@@ -1345,6 +1355,11 @@
 			"direct": 6,
 			"block": 0,
 			"recent": "2016-08-19"
+		},
+		"img-s-msn-com.akamaized.net": {
+			"direct": 6,
+			"block": 0,
+			"recent": "2016-08-22"
 		},
 		"img.25pp.com": {
 			"direct": 100,
@@ -1623,8 +1638,8 @@
 		},
 		"mail.google.com": {
 			"direct": 0,
-			"block": 7,
-			"recent": "2016-08-19"
+			"block": 8,
+			"recent": "2016-08-22"
 		},
 		"mailsonice.ys168.com": {
 			"direct": 1,
@@ -1807,7 +1822,7 @@
 			"recent": "2016-08-19"
 		},
 		"otf.msn.com": {
-			"direct": 3,
+			"direct": 5,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
@@ -2037,7 +2052,7 @@
 			"recent": "2016-08-22"
 		},
 		"qurl.f.360.cn": {
-			"direct": 1,
+			"direct": 3,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
@@ -2312,7 +2327,7 @@
 			"recent": "2016-08-22"
 		},
 		"se.360.cn": {
-			"direct": 5,
+			"direct": 6,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
@@ -2423,7 +2438,7 @@
 		},
 		"ssl.gstatic.com": {
 			"direct": 0,
-			"block": 10,
+			"block": 11,
 			"recent": "2016-08-22"
 		},
 		"sss.tongbu.com": {
@@ -2442,7 +2457,7 @@
 			"recent": "2016-08-19"
 		},
 		"static-hp-eas-s-msn-com.akamaized.net": {
-			"direct": 1,
+			"direct": 4,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
@@ -3063,7 +3078,12 @@
 		},
 		"www.google.com": {
 			"direct": 0,
-			"block": 58,
+			"block": 59,
+			"recent": "2016-08-22"
+		},
+		"www.google.com.tw": {
+			"direct": 0,
+			"block": 1,
 			"recent": "2016-08-22"
 		},
 		"www.googleapis.com": {
@@ -3167,7 +3187,7 @@
 			"recent": "2016-08-19"
 		},
 		"www.msn.com": {
-			"direct": 5,
+			"direct": 9,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
@@ -3267,7 +3287,7 @@
 			"recent": "2016-08-19"
 		},
 		"www.yanglaocn.com": {
-			"direct": 26,
+			"direct": 80,
 			"block": 0,
 			"recent": "2016-08-22"
 		},

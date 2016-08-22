@@ -117,3 +117,6 @@ Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapp
 [2016-08-22 17:27:23] System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
    在 System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
    在 Shadowsocks.Controller.Listener.AcceptCallback(IAsyncResult ar)
+[2016-08-22 17:40:42] ShadowsocksR started
+[2016-08-22 17:50:31] ShadowsocksR started
+[2016-08-22 17:50:42] [Error]connect to update server error
