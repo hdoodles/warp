@@ -2823,3 +2823,36 @@ Void ProtectedInvokeCallback(System.Object, IntPtr)
 Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
 Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
 
+[2016-08-23 18:31:47] [Error]connect to update server error
+[2016-08-23 20:29:43] [Error]connect to update server error
+[2016-08-23 20:36:40] ShadowsocksR started
+[2016-08-23 20:41:40] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-23 20:41:40] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-23 22:43:55] ShadowsocksR started
+[2016-08-23 23:27:55] ShadowsocksR started
+[2016-08-24 01:20:07] ShadowsocksR started
+[2016-08-24 01:23:05] [Error]connect to update server error
+[2016-08-24 01:40:04] [Warn]Proxy server [台湾(61.221.75.161)] connection refused
+[2016-08-24 01:40:04] [Warn]Proxy server [台湾(61.221.75.161)] connection refused
+[2016-08-24 01:40:05] [Warn]Proxy server [台湾(61.221.75.161)] connection refused
+[2016-08-24 01:40:05] [Warn]Proxy server [台湾(61.221.75.161)] connection refused
+[2016-08-24 01:40:06] [Warn]Proxy server [台湾(61.221.75.161)] connection refused
+[2016-08-24 01:40:06] [Warn]Proxy server [台湾(61.221.75.161)] connection refused
+[2016-08-24 03:20:17] [Error]connect to update server error
+[2016-08-24 03:47:47] ShadowsocksR started
+[2016-08-24 03:47:57] [Error]connect to update server error
+[2016-08-24 05:24:01] [Warn]Proxy server [台湾(61.221.75.161)] connection refused
+[2016-08-24 05:24:02] [Warn]Proxy server [台湾(61.221.75.161)] connection refused

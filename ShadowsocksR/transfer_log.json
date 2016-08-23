@@ -28,8 +28,8 @@
 		"totalDownloadBytes" : 881045
 	},
 	"hk.voncop.top" : {
-		"totalUploadBytes" : 1387110,
-		"totalDownloadBytes" : 23810093
+		"totalUploadBytes" : 3734090,
+		"totalDownloadBytes" : 60152316
 	},
 	"sg2.boomss.win" : {
 		"totalUploadBytes" : 47418,
@@ -48,8 +48,8 @@
 		"totalDownloadBytes" : 3752868
 	},
 	"ca.voncop.top" : {
-		"totalUploadBytes" : 51949,
-		"totalDownloadBytes" : 383318
+		"totalUploadBytes" : 110722,
+		"totalDownloadBytes" : 50878140
 	},
 	"cn2.boomss.win" : {
 		"totalUploadBytes" : 8813,
@@ -76,7 +76,7 @@
 		"totalDownloadBytes" : 14997436
 	},
 	"sg5.vip.stormss.online" : {
-		"totalUploadBytes" : 12803078,
+		"totalUploadBytes" : 12803112,
 		"totalDownloadBytes" : 207911490
 	},
 	"kr5.vip.stormss.online" : {
@@ -84,8 +84,8 @@
 		"totalDownloadBytes" : 504482805
 	},
 	"jp5.vip.stormss.online" : {
-		"totalUploadBytes" : 4158752,
-		"totalDownloadBytes" : 39642754
+		"totalUploadBytes" : 4213262,
+		"totalDownloadBytes" : 73726292
 	},
 	"hk5.vip.stormss.online" : {
 		"totalUploadBytes" : 648310,
@@ -128,15 +128,19 @@
 		"totalDownloadBytes" : 1445350
 	},
 	"jp.voncop.top" : {
-		"totalUploadBytes" : 3076656,
-		"totalDownloadBytes" : 61292634
+		"totalUploadBytes" : 6752039,
+		"totalDownloadBytes" : 97760541
 	},
 	"209.141.58.145" : {
 		"totalUploadBytes" : 1277204,
 		"totalDownloadBytes" : 32390132
 	},
 	"139.162.30.235" : {
-		"totalUploadBytes" : 43596909,
-		"totalDownloadBytes" : 218403609
+		"totalUploadBytes" : 43998287,
+		"totalDownloadBytes" : 220254406
+	},
+	"61.221.75.161" : {
+		"totalUploadBytes" : 5253316,
+		"totalDownloadBytes" : 58617719
 	}
 }
