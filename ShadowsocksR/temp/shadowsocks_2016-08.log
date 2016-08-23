@@ -2582,3 +2582,244 @@ Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapp
 [2016-08-23 12:40:15] [Warn]Proxy server [(139.162.30.235)] connection refused
 [2016-08-23 12:40:16] [Warn]Proxy server [(139.162.30.235)] connection refused
 [2016-08-23 12:40:18] [Warn]Proxy server [(139.162.30.235)] connection refused
+[2016-08-23 14:47:41] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:47:41] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:47:42] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:47:42] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:47:42] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:47:42] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:47:43] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:47:43] ShadowsocksR started
+[2016-08-23 14:47:43] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:47:43] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:47:43] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:47:43] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:47:53] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:47:53] [Error]connect to update server error
+[2016-08-23 14:48:31] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:48:31] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:48:31] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:48:31] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:48:31] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:48:31] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:48:31] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:48:31] ShadowsocksR started
+[2016-08-23 14:48:31] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:48:31] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:48:31] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:48:31] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:48:41] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.Configuration.Load()
+[2016-08-23 14:48:41] [Error]connect to update server error
+[2016-08-23 14:51:01] ShadowsocksR started
+[2016-08-23 14:51:32] [Info]Proxy server [(139.162.30.235)] HostUnreachable:套接字操作尝试一个无法连接的主机。 139.162.30.235:8904
+[2016-08-23 14:51:32] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-23 14:51:32] [Info]Proxy server [(139.162.30.235)] HostUnreachable:套接字操作尝试一个无法连接的主机。 139.162.30.235:8904
+[2016-08-23 14:51:32] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-23 14:51:32] [Info]Proxy server [(139.162.30.235)] HostUnreachable:套接字操作尝试一个无法连接的主机。 139.162.30.235:8904
+[2016-08-23 14:51:32] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-23 14:51:32] [Info]Proxy server [(139.162.30.235)] HostUnreachable:套接字操作尝试一个无法连接的主机。 139.162.30.235:8904
+[2016-08-23 14:51:32] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-23 14:51:32] [Info]Proxy server [(139.162.30.235)] HostUnreachable:套接字操作尝试一个无法连接的主机。 139.162.30.235:8904
+[2016-08-23 14:51:32] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-23 14:51:32] [Info]Proxy server [(139.162.30.235)] HostUnreachable:套接字操作尝试一个无法连接的主机。 139.162.30.235:8904
+[2016-08-23 14:51:32] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-23 14:51:32] [Info]Proxy server [(139.162.30.235)] HostUnreachable:套接字操作尝试一个无法连接的主机。 139.162.30.235:8904
+[2016-08-23 14:51:32] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-23 14:51:32] [Error]connect to update server error
+[2016-08-23 16:29:33] ShadowsocksR started
+[2016-08-23 16:33:53] [Error]connect to update server error
+[2016-08-23 16:35:53] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-23 16:35:53] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
