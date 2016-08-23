@@ -8,7 +8,7 @@
 		},
 		"0.gravatar.com": {
 			"direct": 0,
-			"block": 11,
+			"block": 15,
 			"recent": "2016-08-23"
 		},
 		"0.pic.pc6.com": {
@@ -28,8 +28,8 @@
 		},
 		"1.bp.blogspot.com": {
 			"direct": 0,
-			"block": 3,
-			"recent": "2016-08-19"
+			"block": 4,
+			"recent": "2016-08-23"
 		},
 		"1.client-channel.google.com": {
 			"direct": 0,
@@ -37,7 +37,7 @@
 			"recent": "2016-08-22"
 		},
 		"1.gravatar.com": {
-			"direct": 7,
+			"direct": 15,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -132,7 +132,7 @@
 			"recent": "2016-08-23"
 		},
 		"2.gravatar.com": {
-			"direct": 6,
+			"direct": 10,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -158,8 +158,8 @@
 		},
 		"3.bp.blogspot.com": {
 			"direct": 0,
-			"block": 1,
-			"recent": "2016-08-19"
+			"block": 2,
+			"recent": "2016-08-23"
 		},
 		"3.client-channel.google.com": {
 			"direct": 0,
@@ -177,14 +177,19 @@
 			"recent": "2016-08-22"
 		},
 		"37.48.116.168": {
-			"direct": 23,
+			"direct": 35,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"37.48.81.90": {
+			"direct": 2,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"4.bp.blogspot.com": {
 			"direct": 0,
-			"block": 1,
-			"recent": "2016-08-19"
+			"block": 2,
+			"recent": "2016-08-23"
 		},
 		"4.client-channel.google.com": {
 			"direct": 0,
@@ -196,6 +201,11 @@
 			"block": 0,
 			"recent": "2016-08-22"
 		},
+		"404.itzmx.com": {
+			"direct": 8,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"45.32.44.97": {
 			"direct": 3,
 			"block": 0,
@@ -205,6 +215,16 @@
 			"direct": 1,
 			"block": 0,
 			"recent": "2016-08-22"
+		},
+		"51.ruyo.net": {
+			"direct": 3,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"51ruyonet.duoshuo.com": {
+			"direct": 2,
+			"block": 0,
+			"recent": "2016-08-23"
 		},
 		"52lolita.com": {
 			"direct": 16,
@@ -267,8 +287,13 @@
 			"recent": "2016-08-22"
 		},
 		"82.192.80.241": {
-			"direct": 21,
+			"direct": 27,
 			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"85.17.73.31": {
+			"direct": 0,
+			"block": 16,
 			"recent": "2016-08-23"
 		},
 		"9.pic.pc6.com": {
@@ -287,9 +312,9 @@
 			"recent": "2016-08-22"
 		},
 		"a.fsdn.com": {
-			"direct": 1,
+			"direct": 6,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"a.login.skype.com": {
 			"direct": 2,
@@ -307,7 +332,7 @@
 			"recent": "2016-08-19"
 		},
 		"a.yunshipei.com": {
-			"direct": 5,
+			"direct": 7,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -366,6 +391,11 @@
 			"block": 0,
 			"recent": "2016-08-22"
 		},
+		"admclub.com": {
+			"direct": 0,
+			"block": 8,
+			"recent": "2016-08-23"
+		},
 		"ag.csdn.net": {
 			"direct": 6,
 			"block": 0,
@@ -383,7 +413,7 @@
 		},
 		"ajax.googleapis.com": {
 			"direct": 0,
-			"block": 8,
+			"block": 10,
 			"recent": "2016-08-23"
 		},
 		"alany.blog.51cto.com": {
@@ -406,29 +436,39 @@
 			"block": 0,
 			"recent": "2016-08-22"
 		},
+		"ap.lijit.com": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"api-public.addthis.com": {
 			"direct": 2,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
 		"api.bilibili.com": {
-			"direct": 0,
-			"block": 1,
+			"direct": 11,
+			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"api.github.com": {
-			"direct": 9,
+			"direct": 11,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"api.live.daum.net": {
-			"direct": 3,
+			"direct": 5,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"api.mixpanel.com": {
 			"direct": 0,
 			"block": 3,
+			"recent": "2016-08-23"
+		},
+		"api.moefou.org": {
+			"direct": 1,
+			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"api.myfreecams.com": {
@@ -442,9 +482,9 @@
 			"recent": "2016-08-23"
 		},
 		"api.v2.uyan.cc": {
-			"direct": 2,
+			"direct": 4,
 			"block": 0,
-			"recent": "2016-08-19"
+			"recent": "2016-08-23"
 		},
 		"api.zbj.com": {
 			"direct": 1,
@@ -458,7 +498,7 @@
 		},
 		"apis.google.com": {
 			"direct": 0,
-			"block": 33,
+			"block": 45,
 			"recent": "2016-08-23"
 		},
 		"app.api.tongbu.com": {
@@ -466,13 +506,18 @@
 			"block": 0,
 			"recent": "2016-08-22"
 		},
+		"app.box.com": {
+			"direct": 0,
+			"block": 2,
+			"recent": "2016-08-23"
+		},
 		"app.itools.hk": {
 			"direct": 4,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
 		"app.qlogo.cn": {
-			"direct": 5,
+			"direct": 11,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -502,7 +547,7 @@
 			"recent": "2016-08-23"
 		},
 		"assets-cdn.github.com": {
-			"direct": 28,
+			"direct": 29,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -521,13 +566,23 @@
 			"block": 8,
 			"recent": "2016-08-23"
 		},
+		"att.discuz.net": {
+			"direct": 10,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"att.itzmx.com": {
+			"direct": 17,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"auth.gfx.ms": {
 			"direct": 6,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
 		"avatar.csdn.net": {
-			"direct": 9,
+			"direct": 10,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -542,7 +597,7 @@
 			"recent": "2016-08-23"
 		},
 		"avatars0.githubusercontent.com": {
-			"direct": 5,
+			"direct": 6,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -552,14 +607,14 @@
 			"recent": "2016-08-22"
 		},
 		"avatars2.githubusercontent.com": {
-			"direct": 11,
+			"direct": 12,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"avatars3.githubusercontent.com": {
-			"direct": 8,
+			"direct": 11,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"az724953.vo.msecnd.net": {
 			"direct": 2,
@@ -588,7 +643,7 @@
 		},
 		"b.scorecardresearch.com": {
 			"direct": 0,
-			"block": 2,
+			"block": 3,
 			"recent": "2016-08-23"
 		},
 		"bam.nr-data.net": {
@@ -610,6 +665,11 @@
 			"direct": 4,
 			"block": 0,
 			"recent": "2016-08-22"
+		},
+		"bbs.itzmx.com": {
+			"direct": 15,
+			"block": 0,
+			"recent": "2016-08-23"
 		},
 		"bbs.kuangmotiantang.com": {
 			"direct": 2,
@@ -652,12 +712,12 @@
 			"recent": "2016-08-22"
 		},
 		"blog.51cto.com": {
-			"direct": 13,
+			"direct": 22,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"blog.baolimoha.com": {
-			"direct": 6,
+			"direct": 21,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -681,6 +741,16 @@
 			"block": 0,
 			"recent": "2016-08-23"
 		},
+		"blog.pmail.idv.tw": {
+			"direct": 0,
+			"block": 2,
+			"recent": "2016-08-23"
+		},
+		"blog.yegorgavrilov.com": {
+			"direct": 0,
+			"block": 3,
+			"recent": "2016-08-23"
+		},
 		"blogs.zmit.cn": {
 			"direct": 1,
 			"block": 0,
@@ -693,6 +763,11 @@
 		},
 		"book.51cto.com": {
 			"direct": 2,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"bqq.gtimg.com": {
+			"direct": 1,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -711,13 +786,18 @@
 			"block": 2,
 			"recent": "2016-08-22"
 		},
+		"bugs.chromium.org": {
+			"direct": 0,
+			"block": 1,
+			"recent": "2016-08-23"
+		},
 		"builder-assets.unbounce.com": {
 			"direct": 2,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"busuanzi.ibruce.info": {
-			"direct": 1,
+			"direct": 2,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -727,7 +807,7 @@
 			"recent": "2016-08-22"
 		},
 		"c.cnzz.com": {
-			"direct": 39,
+			"direct": 46,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -817,7 +897,7 @@
 			"recent": "2016-08-19"
 		},
 		"cdn.bootcss.com": {
-			"direct": 15,
+			"direct": 16,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -877,7 +957,7 @@
 			"recent": "2016-08-23"
 		},
 		"cdn.sstatic.net": {
-			"direct": 5,
+			"direct": 8,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -926,6 +1006,11 @@
 			"block": 0,
 			"recent": "2016-08-19"
 		},
+		"cdn2.ettoday.net": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"cdn2.xda-developers.com": {
 			"direct": 1,
 			"block": 0,
@@ -957,7 +1042,7 @@
 			"recent": "2016-08-19"
 		},
 		"changyan.itc.cn": {
-			"direct": 17,
+			"direct": 50,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -965,6 +1050,16 @@
 			"direct": 2,
 			"block": 0,
 			"recent": "2016-08-22"
+		},
+		"chengxudaren.com": {
+			"direct": 7,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"chicozy.blog.51cto.com": {
+			"direct": 6,
+			"block": 0,
+			"recent": "2016-08-23"
 		},
 		"chokcoco.github.io": {
 			"direct": 1,
@@ -1002,7 +1097,7 @@
 			"recent": "2016-08-22"
 		},
 		"clc.stackoverflow.com": {
-			"direct": 1,
+			"direct": 3,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -1038,7 +1133,7 @@
 		},
 		"clients1.google.com": {
 			"direct": 0,
-			"block": 5,
+			"block": 6,
 			"recent": "2016-08-23"
 		},
 		"clients2.google.com": {
@@ -1053,12 +1148,12 @@
 		},
 		"clients4.google.com": {
 			"direct": 0,
-			"block": 64,
+			"block": 75,
 			"recent": "2016-08-23"
 		},
 		"clients5.google.com": {
 			"direct": 0,
-			"block": 6,
+			"block": 13,
 			"recent": "2016-08-23"
 		},
 		"clients6.google.com": {
@@ -1086,13 +1181,28 @@
 			"block": 0,
 			"recent": "2016-08-19"
 		},
+		"cm.ipinyou.com": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"cms.zbjimg.com": {
 			"direct": 3,
 			"block": 0,
 			"recent": "2016-08-19"
 		},
-		"cn-tj1-cu.acgvideo.com": {
+		"cn-sdzb-cu-v-03.acgvideo.com": {
 			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"cn-sxty-cu-v-03.acgvideo.com": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"cn-tj1-cu.acgvideo.com": {
+			"direct": 8,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -1102,12 +1212,12 @@
 			"recent": "2016-08-19"
 		},
 		"cn.gravatar.com": {
-			"direct": 9,
+			"direct": 10,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"cnzz.mmstat.com": {
-			"direct": 11,
+			"direct": 13,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -1142,7 +1252,7 @@
 			"recent": "2016-08-23"
 		},
 		"comment.bilibili.com": {
-			"direct": 5,
+			"direct": 12,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -1152,19 +1262,19 @@
 			"recent": "2016-08-23"
 		},
 		"conf.wsm.360.cn": {
-			"direct": 7,
+			"direct": 81,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"connect.facebook.net": {
 			"direct": 0,
-			"block": 15,
-			"recent": "2016-08-22"
+			"block": 16,
+			"recent": "2016-08-23"
 		},
 		"consent-st.truste.com": {
-			"direct": 1,
+			"direct": 2,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"consent.truste.com": {
 			"direct": 1,
@@ -1181,13 +1291,18 @@
 			"block": 0,
 			"recent": "2016-08-22"
 		},
+		"coolk.blog.51cto.com": {
+			"direct": 7,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"count.pcauto.com.cn": {
 			"direct": 1,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"counter.cnblogs.com": {
-			"direct": 3,
+			"direct": 4,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -1212,7 +1327,7 @@
 			"recent": "2016-08-19"
 		},
 		"csdnimg.cn": {
-			"direct": 11,
+			"direct": 15,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -1236,10 +1351,30 @@
 			"block": 0,
 			"recent": "2016-08-22"
 		},
+		"cstriker1407.info": {
+			"direct": 8,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"ctldl.windowsupdate.com": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"cx.tongbu.com": {
 			"direct": 7,
 			"block": 0,
 			"recent": "2016-08-22"
+		},
+		"cxrs.yllm.net": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"d.aidigua.com": {
+			"direct": 3,
+			"block": 0,
+			"recent": "2016-08-23"
 		},
 		"d.mfcimg.com": {
 			"direct": 3,
@@ -1267,9 +1402,9 @@
 			"recent": "2016-08-22"
 		},
 		"d3ezl4ajpp2zy8.cloudfront.net": {
-			"direct": 2,
+			"direct": 3,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"d3pj3vgx4ijpjx.cloudfront.net": {
 			"direct": 4,
@@ -1282,7 +1417,7 @@
 			"recent": "2016-08-23"
 		},
 		"data.bilibili.com": {
-			"direct": 1,
+			"direct": 2,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -1297,7 +1432,7 @@
 			"recent": "2016-08-23"
 		},
 		"dc.csdn.net": {
-			"direct": 4,
+			"direct": 5,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -1376,6 +1511,11 @@
 			"block": 0,
 			"recent": "2016-08-19"
 		},
+		"dn-linuxcn.qbox.me": {
+			"direct": 6,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"dn-myimages.qbox.me": {
 			"direct": 5,
 			"block": 0,
@@ -1402,9 +1542,9 @@
 			"recent": "2016-08-23"
 		},
 		"downloads.sourceforge.net": {
-			"direct": 1,
+			"direct": 3,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"downs.tongbu.com": {
 			"direct": 3,
@@ -1437,9 +1577,9 @@
 			"recent": "2016-08-22"
 		},
 		"ds.cdncache.org": {
-			"direct": 2,
+			"direct": 3,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"dvdowow.wordpress.com": {
 			"direct": 1,
@@ -1471,8 +1611,13 @@
 			"block": 0,
 			"recent": "2016-08-22"
 		},
+		"edge.yunjiasu.com": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"ehgt.org": {
-			"direct": 87,
+			"direct": 100,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -1482,6 +1627,11 @@
 			"recent": "2016-08-23"
 		},
 		"elec.bilibili.com": {
+			"direct": 2,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"en.wikipedia.org": {
 			"direct": 1,
 			"block": 0,
 			"recent": "2016-08-23"
@@ -1492,7 +1642,7 @@
 			"recent": "2016-08-19"
 		},
 		"engine.adzerk.net": {
-			"direct": 1,
+			"direct": 2,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -1577,9 +1727,9 @@
 			"recent": "2016-08-19"
 		},
 		"fg.jiathis.com": {
-			"direct": 7,
+			"direct": 10,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"file.china-virus.net": {
 			"direct": 1,
@@ -1611,6 +1761,11 @@
 			"block": 0,
 			"recent": "2016-08-22"
 		},
+		"fj.pt80.net": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"fonts-gstatic.lug.ustc.edu.cn": {
 			"direct": 13,
 			"block": 0,
@@ -1622,14 +1777,14 @@
 			"recent": "2016-08-19"
 		},
 		"fonts.googleapis.com": {
-			"direct": 17,
+			"direct": 19,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"fonts.gstatic.com": {
-			"direct": 47,
+			"direct": 51,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"fonts.lug.ustc.edu.cn": {
 			"direct": 3,
@@ -1682,7 +1837,12 @@
 			"recent": "2016-08-19"
 		},
 		"forums.e-hentai.org": {
-			"direct": 6,
+			"direct": 7,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"forums.gentoo.org": {
+			"direct": 3,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -1703,7 +1863,7 @@
 		},
 		"g.e-hentai.org": {
 			"direct": 0,
-			"block": 43,
+			"block": 50,
 			"recent": "2016-08-23"
 		},
 		"g.mfcimg.com": {
@@ -1721,8 +1881,13 @@
 			"block": 0,
 			"recent": "2016-08-19"
 		},
+		"gatherproxy.com": {
+			"direct": 0,
+			"block": 16,
+			"recent": "2016-08-23"
+		},
 		"get.daum.net": {
-			"direct": 3,
+			"direct": 5,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -1752,7 +1917,12 @@
 			"recent": "2016-08-22"
 		},
 		"github.com": {
-			"direct": 9,
+			"direct": 23,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"github.itzmx.com": {
+			"direct": 8,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -1822,9 +1992,9 @@
 			"recent": "2016-08-22"
 		},
 		"gzs20.cnzz.com": {
-			"direct": 2,
+			"direct": 4,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"h.mfcimg.com": {
 			"direct": 5,
@@ -1858,8 +2028,8 @@
 		},
 		"history.google.com": {
 			"direct": 0,
-			"block": 2,
-			"recent": "2016-08-19"
+			"block": 3,
+			"recent": "2016-08-23"
 		},
 		"hm1.cnzz.com": {
 			"direct": 3,
@@ -1872,7 +2042,7 @@
 			"recent": "2016-08-23"
 		},
 		"home.51cto.com": {
-			"direct": 10,
+			"direct": 15,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -1892,9 +2062,9 @@
 			"recent": "2016-08-22"
 		},
 		"hzs11.cnzz.com": {
-			"direct": 5,
+			"direct": 8,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"hzs12.cnzz.com": {
 			"direct": 1,
@@ -1912,7 +2082,7 @@
 			"recent": "2016-08-22"
 		},
 		"hzs24.cnzz.com": {
-			"direct": 2,
+			"direct": 4,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -1932,9 +2102,9 @@
 			"recent": "2016-08-23"
 		},
 		"hzs7.cnzz.com": {
-			"direct": 1,
+			"direct": 2,
 			"block": 0,
-			"recent": "2016-08-19"
+			"recent": "2016-08-23"
 		},
 		"hzs9.cnzz.com": {
 			"direct": 1,
@@ -1945,6 +2115,11 @@
 			"direct": 3,
 			"block": 0,
 			"recent": "2016-08-19"
+		},
+		"i-1314.blogspot.com": {
+			"direct": 0,
+			"block": 2,
+			"recent": "2016-08-23"
 		},
 		"i-7.vcimg.com": {
 			"direct": 5,
@@ -1957,14 +2132,14 @@
 			"recent": "2016-08-22"
 		},
 		"i.imgur.com": {
-			"direct": 1,
+			"direct": 2,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"i.jiathis.com": {
-			"direct": 9,
+			"direct": 11,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"i.mfcimg.com": {
 			"direct": 4,
@@ -1976,13 +2151,23 @@
 			"block": 0,
 			"recent": "2016-08-19"
 		},
+		"i.sstmlt.com": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"i.tianqi.com": {
+			"direct": 2,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"i.yimg.jp": {
 			"direct": 1,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"i0.hdslb.com": {
-			"direct": 8,
+			"direct": 30,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -1997,7 +2182,7 @@
 			"recent": "2016-08-23"
 		},
 		"i1.hdslb.com": {
-			"direct": 6,
+			"direct": 20,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -2017,12 +2202,17 @@
 			"recent": "2016-08-19"
 		},
 		"i2.hdslb.com": {
-			"direct": 7,
+			"direct": 30,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"i2.wp.com": {
-			"direct": 14,
+			"direct": 15,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"i3.hdslb.com": {
+			"direct": 1,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -2057,9 +2247,9 @@
 			"recent": "2016-08-22"
 		},
 		"id.jiathis.com": {
-			"direct": 8,
+			"direct": 12,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"identicon.relucks.org": {
 			"direct": 0,
@@ -2117,12 +2307,12 @@
 			"recent": "2016-08-22"
 		},
 		"images.51cto.com": {
-			"direct": 12,
+			"direct": 13,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"images.cnblogs.com": {
-			"direct": 2,
+			"direct": 4,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -2135,6 +2325,11 @@
 			"direct": 100,
 			"block": 0,
 			"recent": "2016-08-19"
+		},
+		"images1-focus-opensocial.googleusercontent.com": {
+			"direct": 0,
+			"block": 1,
+			"recent": "2016-08-23"
 		},
 		"images2015.cnblogs.com": {
 			"direct": 18,
@@ -2168,6 +2363,11 @@
 		},
 		"img.cmsky.com": {
 			"direct": 6,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"img.cxmx.com.cn": {
+			"direct": 3,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -2216,6 +2416,11 @@
 			"block": 0,
 			"recent": "2016-08-19"
 		},
+		"img.tianqi.com": {
+			"direct": 3,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"img.tt7z.com": {
 			"direct": 6,
 			"block": 0,
@@ -2225,6 +2430,11 @@
 			"direct": 1,
 			"block": 0,
 			"recent": "2016-08-19"
+		},
+		"img.webscan.360.cn": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
 		},
 		"img0.pcauto.com.cn": {
 			"direct": 2,
@@ -2242,7 +2452,7 @@
 			"recent": "2016-08-23"
 		},
 		"img1.51cto.com": {
-			"direct": 7,
+			"direct": 21,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -2256,10 +2466,25 @@
 			"block": 0,
 			"recent": "2016-08-19"
 		},
+		"img2.blogblog.com": {
+			"direct": 0,
+			"block": 1,
+			"recent": "2016-08-23"
+		},
 		"img3.appinn.com": {
 			"direct": 3,
 			"block": 0,
 			"recent": "2016-08-19"
+		},
+		"img3.doubanio.com": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"img7.doubanio.com": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
 		},
 		"imgs.aixifan.com": {
 			"direct": 7,
@@ -2277,7 +2502,7 @@
 			"recent": "2016-08-22"
 		},
 		"interface.bilibili.com": {
-			"direct": 5,
+			"direct": 11,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -2312,14 +2537,29 @@
 			"recent": "2016-08-22"
 		},
 		"its.fugetech.com": {
-			"direct": 7,
+			"direct": 10,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"j.mfcimg.com": {
 			"direct": 2,
 			"block": 0,
 			"recent": "2016-08-19"
+		},
+		"jaist.dl.sourceforge.net": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"jf.revolvermaps.com": {
+			"direct": 2,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"jiangfei.duoshuo.com": {
+			"direct": 2,
+			"block": 0,
+			"recent": "2016-08-23"
 		},
 		"jr.pcauto.com.cn": {
 			"direct": 1,
@@ -2361,10 +2601,15 @@
 			"block": 0,
 			"recent": "2016-08-22"
 		},
+		"js.tongji.linezing.com": {
+			"direct": 0,
+			"block": 1,
+			"recent": "2016-08-23"
+		},
 		"js.users.51.la": {
-			"direct": 11,
+			"direct": 12,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"js.wanmeiyueyu.com": {
 			"direct": 2,
@@ -2372,9 +2617,9 @@
 			"recent": "2016-08-19"
 		},
 		"jsapi.uyan.cc": {
-			"direct": 2,
+			"direct": 4,
 			"block": 0,
-			"recent": "2016-08-19"
+			"recent": "2016-08-23"
 		},
 		"jsondata.25pp.com": {
 			"direct": 32,
@@ -2453,7 +2698,22 @@
 		},
 		"lh3.googleusercontent.com": {
 			"direct": 0,
-			"block": 2,
+			"block": 3,
+			"recent": "2016-08-23"
+		},
+		"lh4.googleusercontent.com": {
+			"direct": 0,
+			"block": 1,
+			"recent": "2016-08-23"
+		},
+		"lh5.googleusercontent.com": {
+			"direct": 0,
+			"block": 1,
+			"recent": "2016-08-23"
+		},
+		"lh6.googleusercontent.com": {
+			"direct": 0,
+			"block": 1,
 			"recent": "2016-08-23"
 		},
 		"libs.useso.com": {
@@ -2466,13 +2726,18 @@
 			"block": 0,
 			"recent": "2016-08-23"
 		},
+		"linux.cn": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"live-feed.bilibili.com": {
-			"direct": 2,
+			"direct": 4,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"live.bilibili.com": {
-			"direct": 3,
+			"direct": 10,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -2492,7 +2757,7 @@
 			"recent": "2016-08-19"
 		},
 		"log.51cto.com": {
-			"direct": 37,
+			"direct": 100,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -2507,27 +2772,47 @@
 			"recent": "2016-08-19"
 		},
 		"logs.51cto.com": {
-			"direct": 7,
+			"direct": 13,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"luoyangcheng.wordpress.com": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"lxsym.blog.51cto.com": {
+			"direct": 12,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"m.addthis.com": {
 			"direct": 0,
-			"block": 2,
-			"recent": "2016-08-22"
+			"block": 7,
+			"recent": "2016-08-23"
 		},
 		"m.addthisedge.com": {
-			"direct": 0,
-			"block": 1,
-			"recent": "2016-08-22"
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"m.blog.csdn.net": {
+			"direct": 6,
+			"block": 0,
+			"recent": "2016-08-23"
 		},
 		"m.mfcimg.com": {
 			"direct": 4,
 			"block": 0,
 			"recent": "2016-08-19"
 		},
+		"m.reachmax.cn": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"m.tiebaimg.com": {
-			"direct": 4,
+			"direct": 5,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -2551,6 +2836,11 @@
 			"block": 0,
 			"recent": "2016-08-19"
 		},
+		"main.linuxfocus.org": {
+			"direct": 2,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"mall.pcauto.com.cn": {
 			"direct": 1,
 			"block": 0,
@@ -2562,7 +2852,7 @@
 			"recent": "2016-08-19"
 		},
 		"manager.linode.com": {
-			"direct": 51,
+			"direct": 100,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -2637,14 +2927,14 @@
 			"recent": "2016-08-19"
 		},
 		"message.bilibili.com": {
-			"direct": 4,
+			"direct": 8,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"meta.wikimedia.org": {
-			"direct": 1,
+			"direct": 2,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"mikatan.goodsmile.info": {
 			"direct": 3,
@@ -2652,14 +2942,19 @@
 			"recent": "2016-08-19"
 		},
 		"ml314.com": {
-			"direct": 1,
+			"direct": 5,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"mobile-pic.kssws.ks-cdn.com": {
 			"direct": 12,
 			"block": 0,
 			"recent": "2016-08-22"
+		},
+		"moefm.ccloli.com": {
+			"direct": 2,
+			"block": 0,
+			"recent": "2016-08-23"
 		},
 		"ms.st.thinkbroadband.com": {
 			"direct": 1,
@@ -2677,7 +2972,7 @@
 			"recent": "2016-08-22"
 		},
 		"my.oschina.net": {
-			"direct": 1,
+			"direct": 2,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -2687,9 +2982,9 @@
 			"recent": "2016-08-22"
 		},
 		"my.vultr.com": {
-			"direct": 11,
+			"direct": 12,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"myaccount.google.com": {
 			"direct": 0,
@@ -2707,9 +3002,9 @@
 			"recent": "2016-08-19"
 		},
 		"netdna.bootstrapcdn.com": {
-			"direct": 1,
+			"direct": 3,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"netmon.stat.360safe.com": {
 			"direct": 2,
@@ -2717,7 +3012,7 @@
 			"recent": "2016-08-22"
 		},
 		"new.51cto.com": {
-			"direct": 2,
+			"direct": 6,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -2752,7 +3047,17 @@
 			"recent": "2016-08-23"
 		},
 		"noavatar.csdn.net": {
-			"direct": 4,
+			"direct": 5,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"nosmoking.blog.51cto.com": {
+			"direct": 7,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"ntweb.org": {
+			"direct": 2,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -2942,9 +3247,9 @@
 			"recent": "2016-08-22"
 		},
 		"pac.itzmx.com": {
-			"direct": 11,
+			"direct": 14,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"pagerank.webmasterhome.cn": {
 			"direct": 1,
@@ -2997,7 +3302,7 @@
 			"recent": "2016-08-23"
 		},
 		"pcookie.cnzz.com": {
-			"direct": 11,
+			"direct": 13,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -3017,12 +3322,22 @@
 			"recent": "2016-08-22"
 		},
 		"phpanddb.blog.51cto.com": {
+			"direct": 2,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"phpernote-test.qiniudn.com": {
+			"direct": 2,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"phpernote.qiniudn.com": {
 			"direct": 1,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"pic.cnblogs.com": {
-			"direct": 3,
+			"direct": 4,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -3088,12 +3403,12 @@
 		},
 		"pixel.quantserve.com": {
 			"direct": 0,
-			"block": 1,
+			"block": 2,
 			"recent": "2016-08-23"
 		},
 		"pixel.wp.com": {
-			"direct": 0,
-			"block": 1,
+			"direct": 1,
+			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"plus.googleapis.com": {
@@ -3107,7 +3422,7 @@
 			"recent": "2016-08-23"
 		},
 		"potplayertv.daum.net": {
-			"direct": 3,
+			"direct": 5,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -3121,9 +3436,19 @@
 			"block": 0,
 			"recent": "2016-08-23"
 		},
+		"program-think.blogspot.com": {
+			"direct": 0,
+			"block": 2,
+			"recent": "2016-08-23"
+		},
 		"promo.linode.com": {
 			"direct": 1,
 			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"proxy.com.ru": {
+			"direct": 0,
+			"block": 3,
 			"recent": "2016-08-23"
 		},
 		"ps.eyeota.net": {
@@ -3132,7 +3457,7 @@
 			"recent": "2016-08-22"
 		},
 		"pub.idqqimg.com": {
-			"direct": 1,
+			"direct": 2,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -3145,6 +3470,11 @@
 			"direct": 10,
 			"block": 0,
 			"recent": "2016-08-22"
+		},
+		"public-api.wordpress.com": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
 		},
 		"public.lightpic.info": {
 			"direct": 1,
@@ -3162,7 +3492,7 @@
 			"recent": "2016-08-19"
 		},
 		"q.qlogo.cn": {
-			"direct": 10,
+			"direct": 13,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -3212,7 +3542,7 @@
 			"recent": "2016-08-19"
 		},
 		"qzonestyle.gtimg.cn": {
-			"direct": 2,
+			"direct": 3,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -3261,6 +3591,11 @@
 			"block": 1,
 			"recent": "2016-08-19"
 		},
+		"rashost.com": {
+			"direct": 6,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"raw.githubusercontent.com": {
 			"direct": 5,
 			"block": 0,
@@ -3277,7 +3612,7 @@
 			"recent": "2016-08-22"
 		},
 		"recdm.csdn.net": {
-			"direct": 3,
+			"direct": 4,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -3351,6 +3686,11 @@
 			"block": 0,
 			"recent": "2016-08-19"
 		},
+		"rf.revolvermaps.com": {
+			"direct": 13,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"rms.zhubajie.com": {
 			"direct": 7,
 			"block": 0,
@@ -3382,7 +3722,7 @@
 			"recent": "2016-08-22"
 		},
 		"s.gravatar.com": {
-			"direct": 2,
+			"direct": 4,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -3402,9 +3742,9 @@
 			"recent": "2016-08-19"
 		},
 		"s.skimresources.com": {
-			"direct": 1,
+			"direct": 2,
 			"block": 0,
-			"recent": "2016-08-19"
+			"recent": "2016-08-23"
 		},
 		"s.swiftypecdn.com": {
 			"direct": 3,
@@ -3437,9 +3777,9 @@
 			"recent": "2016-08-23"
 		},
 		"s0.wp.com": {
-			"direct": 4,
+			"direct": 5,
 			"block": 0,
-			"recent": "2016-08-19"
+			"recent": "2016-08-23"
 		},
 		"s09.flagcounter.com": {
 			"direct": 1,
@@ -3447,14 +3787,14 @@
 			"recent": "2016-08-19"
 		},
 		"s1.51cto.com": {
-			"direct": 8,
+			"direct": 24,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"s1.wp.com": {
-			"direct": 1,
+			"direct": 3,
 			"block": 0,
-			"recent": "2016-08-19"
+			"recent": "2016-08-23"
 		},
 		"s108.cnzz.com": {
 			"direct": 1,
@@ -3462,9 +3802,14 @@
 			"recent": "2016-08-23"
 		},
 		"s11.cnzz.com": {
-			"direct": 23,
+			"direct": 27,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
+		},
+		"s13.cnzz.com": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
 		},
 		"s131.cnzz.com": {
 			"direct": 1,
@@ -3482,7 +3827,7 @@
 			"recent": "2016-08-23"
 		},
 		"s2.51cto.com": {
-			"direct": 4,
+			"direct": 5,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -3501,18 +3846,23 @@
 			"block": 0,
 			"recent": "2016-08-23"
 		},
-		"s20.cnzz.com": {
-			"direct": 2,
+		"s2.wp.com": {
+			"direct": 1,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
+		},
+		"s20.cnzz.com": {
+			"direct": 3,
+			"block": 0,
+			"recent": "2016-08-23"
 		},
 		"s24.cnzz.com": {
-			"direct": 2,
+			"direct": 4,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"s3.51cto.com": {
-			"direct": 8,
+			"direct": 18,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -3522,17 +3872,17 @@
 			"recent": "2016-08-23"
 		},
 		"s4.51cto.com": {
-			"direct": 2,
+			"direct": 4,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"s4.cnzz.com": {
-			"direct": 9,
+			"direct": 10,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"s5.51cto.com": {
-			"direct": 1,
+			"direct": 2,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -3553,8 +3903,8 @@
 		},
 		"s7.addthis.com": {
 			"direct": 0,
-			"block": 3,
-			"recent": "2016-08-22"
+			"block": 4,
+			"recent": "2016-08-23"
 		},
 		"s8.51cto.com": {
 			"direct": 2,
@@ -3572,7 +3922,7 @@
 			"recent": "2016-08-19"
 		},
 		"s95.cnzz.com": {
-			"direct": 16,
+			"direct": 18,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -3652,7 +4002,12 @@
 			"recent": "2016-08-22"
 		},
 		"secure.gravatar.com": {
-			"direct": 20,
+			"direct": 22,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"secure.livechatinc.com": {
+			"direct": 5,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -3675,6 +4030,11 @@
 			"direct": 6,
 			"block": 0,
 			"recent": "2016-08-22"
+		},
+		"serverfault.com": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
 		},
 		"shadow.bydisk.com": {
 			"direct": 3,
@@ -3707,7 +4067,7 @@
 			"recent": "2016-08-22"
 		},
 		"sina.wrating.com": {
-			"direct": 3,
+			"direct": 4,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -3737,9 +4097,9 @@
 			"recent": "2016-08-22"
 		},
 		"sourceforge.net": {
-			"direct": 1,
+			"direct": 13,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"sp3.cndm.com": {
 			"direct": 1,
@@ -3771,6 +4131,11 @@
 			"block": 0,
 			"recent": "2016-08-23"
 		},
+		"ss5.sourceforge.net": {
+			"direct": 0,
+			"block": 7,
+			"recent": "2016-08-23"
+		},
 		"ssl.google-analytics.com": {
 			"direct": 3,
 			"block": 0,
@@ -3778,13 +4143,18 @@
 		},
 		"ssl.gstatic.com": {
 			"direct": 0,
-			"block": 19,
+			"block": 31,
 			"recent": "2016-08-23"
 		},
 		"sss.tongbu.com": {
 			"direct": 1,
 			"block": 0,
 			"recent": "2016-08-22"
+		},
+		"sstmlt.net": {
+			"direct": 6,
+			"block": 0,
+			"recent": "2016-08-23"
 		},
 		"st2-dc.splashtop.com": {
 			"direct": 17,
@@ -3815,6 +4185,11 @@
 			"direct": 4,
 			"block": 0,
 			"recent": "2016-08-22"
+		},
+		"static-res.ruyo.net": {
+			"direct": 6,
+			"block": 0,
+			"recent": "2016-08-23"
 		},
 		"static.111cn.net": {
 			"direct": 4,
@@ -3847,12 +4222,12 @@
 			"recent": "2016-08-22"
 		},
 		"static.cnbetacdn.com": {
-			"direct": 40,
+			"direct": 46,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"static.cnblogs.com": {
-			"direct": 3,
+			"direct": 5,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -3897,12 +4272,12 @@
 			"recent": "2016-08-23"
 		},
 		"static.hdslb.com": {
-			"direct": 9,
+			"direct": 94,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"static.oschina.net": {
-			"direct": 6,
+			"direct": 14,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -3932,14 +4307,19 @@
 			"recent": "2016-08-23"
 		},
 		"stats.wp.com": {
-			"direct": 1,
+			"direct": 2,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"stimg.sstmlt.com": {
+			"direct": 6,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"storage.googleapis.com": {
-			"direct": 1,
+			"direct": 2,
 			"block": 0,
-			"recent": "2016-08-19"
+			"recent": "2016-08-23"
 		},
 		"stormss.online": {
 			"direct": 8,
@@ -4031,6 +4411,11 @@
 			"block": 0,
 			"recent": "2016-08-22"
 		},
+		"t1.chinavivaki.com": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"t5.zbjimg.com": {
 			"direct": 8,
 			"block": 0,
@@ -4041,13 +4426,18 @@
 			"block": 0,
 			"recent": "2016-08-19"
 		},
+		"tag.crsspxl.com": {
+			"direct": 2,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"tag.marinsm.com": {
 			"direct": 2,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"tag.perfectaudience.com": {
-			"direct": 2,
+			"direct": 3,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -4112,7 +4502,7 @@
 			"recent": "2016-08-22"
 		},
 		"timonpeng.duoshuo.com": {
-			"direct": 1,
+			"direct": 2,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -4132,14 +4522,14 @@
 			"recent": "2016-08-22"
 		},
 		"tracking.ad-survey.com": {
-			"direct": 4,
+			"direct": 9,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"trc.taboola.com": {
-			"direct": 0,
-			"block": 2,
-			"recent": "2016-08-22"
+			"direct": 2,
+			"block": 0,
+			"recent": "2016-08-23"
 		},
 		"trustlogo.com": {
 			"direct": 1,
@@ -4157,9 +4547,9 @@
 			"recent": "2016-08-19"
 		},
 		"tucao.tv": {
-			"direct": 1,
+			"direct": 2,
 			"block": 0,
-			"recent": "2016-08-19"
+			"recent": "2016-08-23"
 		},
 		"tw.shuttle.com": {
 			"direct": 7,
@@ -4201,13 +4591,18 @@
 			"block": 1,
 			"recent": "2016-08-23"
 		},
-		"uc.pt80.net": {
-			"direct": 1,
+		"uc.itzmx.com": {
+			"direct": 40,
 			"block": 0,
-			"recent": "2016-08-19"
+			"recent": "2016-08-23"
+		},
+		"uc.pt80.net": {
+			"direct": 2,
+			"block": 0,
+			"recent": "2016-08-23"
 		},
 		"ucenter.51cto.com": {
-			"direct": 13,
+			"direct": 38,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -4222,7 +4617,7 @@
 			"recent": "2016-08-22"
 		},
 		"ul.ehgt.org": {
-			"direct": 30,
+			"direct": 33,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -4267,9 +4662,9 @@
 			"recent": "2016-08-22"
 		},
 		"upload.wikimedia.org": {
-			"direct": 1,
+			"direct": 3,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"url.i4.cn": {
 			"direct": 2,
@@ -4287,7 +4682,7 @@
 			"recent": "2016-08-22"
 		},
 		"v.admaster.com.cn": {
-			"direct": 3,
+			"direct": 11,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -4297,9 +4692,9 @@
 			"recent": "2016-08-19"
 		},
 		"v2.jiathis.com": {
-			"direct": 5,
+			"direct": 7,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"v2.tongbu.com": {
 			"direct": 6,
@@ -4307,9 +4702,9 @@
 			"recent": "2016-08-22"
 		},
 		"v2.uyan.cc": {
-			"direct": 10,
+			"direct": 20,
 			"block": 0,
-			"recent": "2016-08-19"
+			"recent": "2016-08-23"
 		},
 		"v2670624938.vultr.com": {
 			"direct": 2,
@@ -4317,9 +4712,9 @@
 			"recent": "2016-08-23"
 		},
 		"v3.jiathis.com": {
-			"direct": 15,
+			"direct": 16,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"v3.tongbu.com": {
 			"direct": 25,
@@ -4412,9 +4807,9 @@
 			"recent": "2016-08-22"
 		},
 		"web.51.la": {
-			"direct": 8,
+			"direct": 9,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"web2.51.la": {
 			"direct": 1,
@@ -4466,6 +4861,11 @@
 			"block": 0,
 			"recent": "2016-08-19"
 		},
+		"widgets.wp.com": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"winscp-static-746341.c.cdn77.org": {
 			"direct": 1,
 			"block": 0,
@@ -4485,6 +4885,11 @@
 			"direct": 5,
 			"block": 0,
 			"recent": "2016-08-19"
+		},
+		"worku.work": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
 		},
 		"ww5.broadbandspeedchecker.com": {
 			"direct": 1,
@@ -4517,7 +4922,12 @@
 			"recent": "2016-08-19"
 		},
 		"www.51cto.com": {
-			"direct": 13,
+			"direct": 14,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"www.612459.com": {
+			"direct": 7,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -4577,7 +4987,7 @@
 			"recent": "2016-08-22"
 		},
 		"www.bilibili.com": {
-			"direct": 32,
+			"direct": 47,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -4591,10 +5001,20 @@
 			"block": 0,
 			"recent": "2016-08-22"
 		},
+		"www.blogblog.com": {
+			"direct": 0,
+			"block": 1,
+			"recent": "2016-08-23"
+		},
 		"www.blogger.com": {
 			"direct": 0,
-			"block": 4,
-			"recent": "2016-08-22"
+			"block": 9,
+			"recent": "2016-08-23"
+		},
+		"www.blogjava.net": {
+			"direct": 6,
+			"block": 0,
+			"recent": "2016-08-23"
 		},
 		"www.blogsmithmedia.com": {
 			"direct": 10,
@@ -4637,7 +5057,7 @@
 			"recent": "2016-08-19"
 		},
 		"www.centoscn.com": {
-			"direct": 7,
+			"direct": 21,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -4671,6 +5091,11 @@
 			"block": 0,
 			"recent": "2016-08-19"
 		},
+		"www.clocklink.com": {
+			"direct": 3,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"www.cloudcore.jp": {
 			"direct": 55,
 			"block": 0,
@@ -4687,13 +5112,18 @@
 			"recent": "2016-08-23"
 		},
 		"www.cnbeta.com": {
-			"direct": 60,
+			"direct": 72,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"www.cnblogs.com": {
-			"direct": 21,
+			"direct": 33,
 			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"www.cnproxy.com": {
+			"direct": 0,
+			"block": 5,
 			"recent": "2016-08-23"
 		},
 		"www.cnvultr.com": {
@@ -4716,6 +5146,11 @@
 			"block": 0,
 			"recent": "2016-08-19"
 		},
+		"www.dahe.org": {
+			"direct": 2,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"www.dannychoo.com": {
 			"direct": 0,
 			"block": 9,
@@ -4736,10 +5171,20 @@
 			"block": 0,
 			"recent": "2016-08-22"
 		},
+		"www.discuz.net": {
+			"direct": 14,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"www.diskgenius.cn": {
 			"direct": 6,
 			"block": 0,
 			"recent": "2016-08-19"
+		},
+		"www.dou-bi.com": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
 		},
 		"www.dream4ever.org": {
 			"direct": 4,
@@ -4768,6 +5213,16 @@
 		},
 		"www.epaylinks.cn": {
 			"direct": 34,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"www.freeproxylists.net": {
+			"direct": 0,
+			"block": 15,
+			"recent": "2016-08-23"
+		},
+		"www.gentoo.org": {
+			"direct": 1,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -4802,7 +5257,7 @@
 			"recent": "2016-08-19"
 		},
 		"www.google-analytics.com": {
-			"direct": 15,
+			"direct": 16,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -4818,7 +5273,7 @@
 		},
 		"www.google.com": {
 			"direct": 0,
-			"block": 92,
+			"block": 100,
 			"recent": "2016-08-23"
 		},
 		"www.google.com.tw": {
@@ -4837,14 +5292,14 @@
 			"recent": "2016-08-23"
 		},
 		"www.googletagmanager.com": {
-			"direct": 4,
+			"direct": 5,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"www.googletagservices.com": {
-			"direct": 4,
+			"direct": 5,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"www.gravatar.com": {
 			"direct": 0,
@@ -4853,7 +5308,7 @@
 		},
 		"www.gstatic.com": {
 			"direct": 0,
-			"block": 14,
+			"block": 25,
 			"recent": "2016-08-23"
 		},
 		"www.guokr.com": {
@@ -4873,6 +5328,11 @@
 		},
 		"www.hostloc.com": {
 			"direct": 29,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"www.huangzhong.ca": {
+			"direct": 41,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -4911,8 +5371,18 @@
 			"block": 0,
 			"recent": "2016-08-23"
 		},
+		"www.ixizi.cn": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"www.jb51.net": {
 			"direct": 2,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"www.jiangfei.net": {
+			"direct": 6,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -4947,7 +5417,7 @@
 			"recent": "2016-08-19"
 		},
 		"www.kuangmotiantang.com": {
-			"direct": 7,
+			"direct": 16,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -4971,13 +5441,23 @@
 			"block": 0,
 			"recent": "2016-08-23"
 		},
+		"www.linuxbyte.org": {
+			"direct": 6,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"www.live-in.org": {
+			"direct": 0,
+			"block": 2,
+			"recent": "2016-08-23"
+		},
 		"www.logphp.com": {
 			"direct": 5,
 			"block": 0,
 			"recent": "2016-08-22"
 		},
 		"www.lowendtalk.com": {
-			"direct": 2,
+			"direct": 3,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -5031,13 +5511,18 @@
 			"block": 0,
 			"recent": "2016-08-19"
 		},
+		"www.ok165.com": {
+			"direct": 10,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"www.oracle.com": {
 			"direct": 2,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
 		"www.oschina.net": {
-			"direct": 7,
+			"direct": 21,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -5050,6 +5535,11 @@
 			"direct": 0,
 			"block": 2,
 			"recent": "2016-08-22"
+		},
+		"www.pangci.cc": {
+			"direct": 5,
+			"block": 0,
+			"recent": "2016-08-23"
 		},
 		"www.paypalobjects.com": {
 			"direct": 1,
@@ -5076,6 +5566,11 @@
 			"block": 1,
 			"recent": "2016-08-19"
 		},
+		"www.phpernote.com": {
+			"direct": 5,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"www.pingwest.com": {
 			"direct": 6,
 			"block": 0,
@@ -5087,9 +5582,9 @@
 			"recent": "2016-08-23"
 		},
 		"www.pt80.net": {
-			"direct": 9,
+			"direct": 15,
 			"block": 0,
-			"recent": "2016-08-19"
+			"recent": "2016-08-23"
 		},
 		"www.pulller.com": {
 			"direct": 7,
@@ -5100,6 +5595,16 @@
 			"direct": 0,
 			"block": 2,
 			"recent": "2016-08-22"
+		},
+		"www.shejidaren.com": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"www.site-digger.com": {
+			"direct": 7,
+			"block": 0,
+			"recent": "2016-08-23"
 		},
 		"www.sjzzjj.gov.cn": {
 			"direct": 85,
@@ -5136,6 +5641,21 @@
 			"block": 0,
 			"recent": "2016-08-22"
 		},
+		"www.taobaobay.com": {
+			"direct": 2,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"www.tianqi.com": {
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
+		"www.tldp.org": {
+			"direct": 2,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"www.tongfu.info": {
 			"direct": 16,
 			"block": 0,
@@ -5157,9 +5677,9 @@
 			"recent": "2016-08-19"
 		},
 		"www.tucao.tv": {
-			"direct": 8,
+			"direct": 15,
 			"block": 0,
-			"recent": "2016-08-19"
+			"recent": "2016-08-23"
 		},
 		"www.tumblr.com": {
 			"direct": 0,
@@ -5216,6 +5736,11 @@
 			"block": 3,
 			"recent": "2016-08-22"
 		},
+		"www.wuxiaowei.com": {
+			"direct": 4,
+			"block": 0,
+			"recent": "2016-08-23"
+		},
 		"www.xn--vi8hiv.ws": {
 			"direct": 0,
 			"block": 2,
@@ -5235,6 +5760,11 @@
 			"direct": 3,
 			"block": 0,
 			"recent": "2016-08-22"
+		},
+		"www.youdaili.net": {
+			"direct": 23,
+			"block": 0,
+			"recent": "2016-08-23"
 		},
 		"www.zbj.com": {
 			"direct": 2,
@@ -5277,9 +5807,9 @@
 			"recent": "2016-08-22"
 		},
 		"wx.qlogo.cn": {
-			"direct": 2,
+			"direct": 3,
 			"block": 0,
-			"recent": "2016-08-22"
+			"recent": "2016-08-23"
 		},
 		"x-img.hdslb.net": {
 			"direct": 1,
@@ -5327,7 +5857,7 @@
 			"recent": "2016-08-23"
 		},
 		"z4.cnzz.com": {
-			"direct": 14,
+			"direct": 23,
 			"block": 0,
 			"recent": "2016-08-23"
 		},
@@ -5353,8 +5883,8 @@
 		},
 		"zh.wikipedia.org": {
 			"direct": 0,
-			"block": 1,
-			"recent": "2016-08-22"
+			"block": 2,
+			"recent": "2016-08-23"
 		},
 		"zhiyou.smzdm.com": {
 			"direct": 1,
