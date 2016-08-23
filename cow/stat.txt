@@ -533,7 +533,7 @@
 		},
 		"apis.google.com": {
 			"direct": 0,
-			"block": 64,
+			"block": 65,
 			"recent": "2016-08-24"
 		},
 		"app.api.tongbu.com": {
@@ -1303,7 +1303,7 @@
 		},
 		"clients5.google.com": {
 			"direct": 0,
-			"block": 20,
+			"block": 21,
 			"recent": "2016-08-24"
 		},
 		"clients6.google.com": {
@@ -4613,7 +4613,7 @@
 		},
 		"ssl.gstatic.com": {
 			"direct": 0,
-			"block": 46,
+			"block": 47,
 			"recent": "2016-08-24"
 		},
 		"sss.tongbu.com": {
@@ -5692,7 +5692,7 @@
 			"recent": "2016-08-19"
 		},
 		"www.centoscn.com": {
-			"direct": 32,
+			"direct": 33,
 			"block": 0,
 			"recent": "2016-08-24"
 		},
@@ -5958,7 +5958,7 @@
 		},
 		"www.gstatic.com": {
 			"direct": 0,
-			"block": 38,
+			"block": 39,
 			"recent": "2016-08-24"
 		},
 		"www.guokr.com": {
@@ -6117,7 +6117,7 @@
 			"recent": "2016-08-24"
 		},
 		"www.link588.com": {
-			"direct": 6,
+			"direct": 12,
 			"block": 0,
 			"recent": "2016-08-24"
 		},
