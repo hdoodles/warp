@@ -580,7 +580,7 @@
 	"index" : 35,
 	"random" : false,
 	"global" : true,
-	"enabled" : false,
+	"enabled" : true,
 	"shareOverLan" : false,
 	"isDefault" : false,
 	"bypassWhiteList" : false,
