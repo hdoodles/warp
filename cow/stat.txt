@@ -592,7 +592,7 @@
 			"recent": "2016-08-23"
 		},
 		"assets-cdn.github.com": {
-			"direct": 54,
+			"direct": 62,
 			"block": 0,
 			"recent": "2016-08-24"
 		},
@@ -1007,7 +1007,7 @@
 			"recent": "2016-08-23"
 		},
 		"camo.githubusercontent.com": {
-			"direct": 10,
+			"direct": 12,
 			"block": 0,
 			"recent": "2016-08-24"
 		},
@@ -1432,7 +1432,7 @@
 			"recent": "2016-08-22"
 		},
 		"collector.githubapp.com": {
-			"direct": 6,
+			"direct": 7,
 			"block": 0,
 			"recent": "2016-08-24"
 		},
@@ -2208,7 +2208,7 @@
 		},
 		"github.com": {
 			"direct": 0,
-			"block": 23,
+			"block": 37,
 			"recent": "2016-08-24"
 		},
 		"github.itzmx.com": {
@@ -3427,9 +3427,9 @@
 			"recent": "2016-08-22"
 		},
 		"mtalk.google.com": {
-			"direct": 0,
-			"block": 1,
-			"recent": "2016-08-22"
+			"direct": 1,
+			"block": 0,
+			"recent": "2016-08-24"
 		},
 		"munchkin.marketo.net": {
 			"direct": 1,
@@ -5287,8 +5287,8 @@
 			"recent": "2016-08-23"
 		},
 		"tw-d1.v.center": {
-			"direct": 6,
-			"block": 0,
+			"direct": 0,
+			"block": 1,
 			"recent": "2016-08-24"
 		},
 		"tw.shuttle.com": {
@@ -5448,7 +5448,7 @@
 		},
 		"v.center": {
 			"direct": 0,
-			"block": 11,
+			"block": 17,
 			"recent": "2016-08-24"
 		},
 		"v.mfcimg.com": {
@@ -6037,7 +6037,7 @@
 			"recent": "2016-08-23"
 		},
 		"www.dream4ever.org": {
-			"direct": 10,
+			"direct": 11,
 			"block": 0,
 			"recent": "2016-08-24"
 		},
