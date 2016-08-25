@@ -575,6 +575,22 @@
 			"protocol" : "auth_sha1_v2",
 			"enable" : true,
 			"id" : "FE58A6317280BEEF68B8E4587E111D0C"
+		},
+		{
+			"remarks" : "",
+			"server" : "server ip or url",
+			"server_port" : 8388,
+			"server_udp_port" : 0,
+			"password" : "0",
+			"method" : "aes-256-cfb",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "",
+			"group" : null,
+			"udp_over_tcp" : false,
+			"protocol" : "origin",
+			"enable" : true,
+			"id" : "AA66F1DEFDE7000AE3F173A162EF60E4"
 		}
 	],
 	"index" : 2,

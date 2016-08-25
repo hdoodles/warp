@@ -70,8 +70,7 @@ judgeByIP = true
 # 目前支持的二级代理及配置举例：
 #
 # SOCKS5:
-  proxy = socks5://60.249.100.177:1080
-#
+  proxy = socks5://127.0.0.1:2046
 # HTTP:
 #   proxy = http://127.0.0.1:8080
 #   proxy = http://user:password@127.0.0.1:8080
