@@ -8,3 +8,4 @@ t.co
 facebook.com
 fbcdn.net
 fb.me
+torproject.org

@@ -2856,3 +2856,197 @@ Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapp
 [2016-08-24 03:47:57] [Error]connect to update server error
 [2016-08-24 05:24:01] [Warn]Proxy server [台湾(61.221.75.161)] connection refused
 [2016-08-24 05:24:02] [Warn]Proxy server [台湾(61.221.75.161)] connection refused
+[2016-08-24 05:53:24] [Warn]Proxy server [台湾(61.221.75.161)] connection refused
+[2016-08-24 05:53:25] [Warn]Proxy server [台湾(61.221.75.161)] connection refused
+[2016-08-24 05:53:25] [Warn]Proxy server [台湾(61.221.75.161)] connection refused
+[2016-08-24 05:53:26] [Warn]Proxy server [台湾(61.221.75.161)] connection refused
+[2016-08-24 05:53:27] [Warn]Proxy server [台湾(61.221.75.161)] connection refused
+[2016-08-24 05:53:27] [Warn]Proxy server [台湾(61.221.75.161)] connection refused
+[2016-08-24 09:48:34] [Warn]Proxy server [台湾(61.221.75.161)] connection refused
+[2016-08-24 13:17:01] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-24 13:17:01] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-24 16:16:59] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-24 16:16:59] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-24 20:28:00] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-24 20:28:00] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-24 20:28:06] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-24 20:28:06] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-24 20:29:50] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-24 20:29:50] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-24 20:29:50] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-24 20:29:50] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-24 20:29:50] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-24 20:29:50] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-24 20:29:50] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-24 20:29:50] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-24 20:29:50] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-24 20:29:50] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-24 20:32:05] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-24 20:32:05] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-24 20:32:29] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-24 20:32:29] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-24 20:47:09] ShadowsocksR started
+[2016-08-24 20:48:57] ShadowsocksR started
+[2016-08-24 21:33:18] ShadowsocksR started
+[2016-08-24 21:45:47] ShadowsocksR started
+[2016-08-24 21:50:07] [Error]connect to update server error
+[2016-08-24 22:42:57] ShadowsocksR started
+[2016-08-24 22:44:47] ShadowsocksR started
+[2016-08-25 00:51:00] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-25 00:51:00] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
