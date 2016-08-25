@@ -146,7 +146,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "tw1.boomss.win",
+			"server" : "tw1.boomss.ml",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -162,7 +162,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "sg2.boomss.win",
+			"server" : "sg2.boomss.ml",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -178,7 +178,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "us3.boomss.win",
+			"server" : "us3.boomss.ml",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -194,7 +194,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "us2.boomss.win",
+			"server" : "us2.boomss.ml",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -210,7 +210,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "us5.boomss.win",
+			"server" : "us5.boomss.ml",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -226,7 +226,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "uk.boomss.win",
+			"server" : "uk.boomss.ml",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -242,7 +242,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "sg3.boomss.win",
+			"server" : "sg3.boomss.ml",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -258,7 +258,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "sg1.boomss.win",
+			"server" : "sg1.boomss.ml",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -274,7 +274,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "jp2.boomss.win",
+			"server" : "jp2.boomss.ml",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -290,7 +290,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "jp1.boomss.win",
+			"server" : "jp1.boomss.ml",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -306,7 +306,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "cn2.boomss.win",
+			"server" : "cn2.boomss.ml",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -322,7 +322,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "us4.boomss.win",
+			"server" : "us4.boomss.ml",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -338,7 +338,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "us1.boomss.win",
+			"server" : "us1.boomss.ml",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -354,7 +354,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "hk4.boomss.win",
+			"server" : "hk4.boomss.ml",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
