@@ -562,7 +562,7 @@
 		},
 		{
 			"remarks" : "台湾",
-			"server" : "61.221.75.161",
+			"server" : "60.249.100.177",
 			"server_port" : 8388,
 			"server_udp_port" : 0,
 			"password" : "ji9li7..",
@@ -577,9 +577,9 @@
 			"id" : "FE58A6317280BEEF68B8E4587E111D0C"
 		}
 	],
-	"index" : 2,
+	"index" : 35,
 	"random" : false,
-	"global" : false,
+	"global" : true,
 	"enabled" : false,
 	"shareOverLan" : false,
 	"isDefault" : false,
@@ -598,7 +598,7 @@
 	"proxyUserAgent" : "",
 	"authUser" : "",
 	"authPass" : "",
-	"autoBan" : true,
+	"autoBan" : false,
 	"sameHostForSameTarget" : false,
 	"keepVisitTime" : 180,
 	"dns_server" : "",

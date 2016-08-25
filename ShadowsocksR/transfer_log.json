@@ -8,7 +8,7 @@
 		"totalDownloadBytes" : 183714
 	},
 	"us3.voncop.top" : {
-		"totalUploadBytes" : 20750,
+		"totalUploadBytes" : 32365,
 		"totalDownloadBytes" : 404745
 	},
 	"tw1.boomss.win" : {
@@ -84,8 +84,8 @@
 		"totalDownloadBytes" : 504482805
 	},
 	"jp5.vip.stormss.online" : {
-		"totalUploadBytes" : 4213262,
-		"totalDownloadBytes" : 73726292
+		"totalUploadBytes" : 4294630,
+		"totalDownloadBytes" : 74265008
 	},
 	"hk5.vip.stormss.online" : {
 		"totalUploadBytes" : 648310,
@@ -128,19 +128,27 @@
 		"totalDownloadBytes" : 1445350
 	},
 	"jp.voncop.top" : {
-		"totalUploadBytes" : 6799425,
-		"totalDownloadBytes" : 97866757
+		"totalUploadBytes" : 6768333,
+		"totalDownloadBytes" : 97843964
 	},
 	"209.141.58.145" : {
 		"totalUploadBytes" : 1277204,
 		"totalDownloadBytes" : 32390132
 	},
 	"139.162.30.235" : {
-		"totalUploadBytes" : 44338114,
-		"totalDownloadBytes" : 224689838
+		"totalUploadBytes" : 43998287,
+		"totalDownloadBytes" : 220254406
 	},
 	"61.221.75.161" : {
-		"totalUploadBytes" : 26700183,
-		"totalDownloadBytes" : 133712184
+		"totalUploadBytes" : 12148325,
+		"totalDownloadBytes" : 167538748
+	},
+	"tw1.boomss.ml" : {
+		"totalUploadBytes" : 2134141,
+		"totalDownloadBytes" : 773684724
+	},
+	"60.249.100.177" : {
+		"totalUploadBytes" : 442480,
+		"totalDownloadBytes" : 944148
 	}
 }
