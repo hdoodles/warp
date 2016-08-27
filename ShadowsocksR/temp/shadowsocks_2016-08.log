@@ -4555,3 +4555,4 @@ Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapp
 [2016-08-26 23:32:14] [Error]connect to update server error
 [2016-08-27 09:32:14] [Error]connect to update server error
 [2016-08-27 11:32:13] [Error]connect to update server error
+[2016-08-27 13:51:39] ShadowsocksR started
