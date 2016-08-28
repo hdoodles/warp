@@ -563,10 +563,10 @@
 		{
 			"remarks" : "台湾",
 			"server" : "60.249.100.177",
-			"server_port" : 8388,
+			"server_port" : 7000,
 			"server_udp_port" : 0,
 			"password" : "ji9li7..",
-			"method" : "aes-256-cfb",
+			"method" : "chacha20-ietf",
 			"obfs" : "tls1.2_ticket_auth",
 			"obfsparam" : "",
 			"remarks_base64" : "5Y-w5rm-",
@@ -593,7 +593,7 @@
 			"id" : "AA66F1DEFDE7000AE3F173A162EF60E4"
 		}
 	],
-	"index" : 24,
+	"index" : 35,
 	"random" : false,
 	"global" : true,
 	"enabled" : false,

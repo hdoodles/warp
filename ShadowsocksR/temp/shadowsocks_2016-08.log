@@ -4556,3 +4556,609 @@ Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapp
 [2016-08-27 09:32:14] [Error]connect to update server error
 [2016-08-27 11:32:13] [Error]connect to update server error
 [2016-08-27 13:51:39] ShadowsocksR started
+[2016-08-27 14:00:03] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 14:00:04] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 14:00:04] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 14:00:04] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 14:00:05] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 14:00:05] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 14:00:05] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 14:02:01] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 14:02:01] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 14:11:10] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 14:11:10] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 14:11:10] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 14:11:11] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 14:50:29] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 14:50:29] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 14:50:30] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 14:50:30] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 14:51:13] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 14:51:13] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 14:51:13] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 14:51:13] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 14:51:14] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 14:51:14] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 14:51:15] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 14:51:15] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 14:51:15] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 14:51:15] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 14:51:15] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 14:51:15] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 14:51:15] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 14:51:15] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 14:51:25] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 14:51:25] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 14:53:19] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 14:53:20] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 14:53:21] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 14:53:22] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 14:53:24] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 14:53:38] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 14:53:38] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 14:53:38] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 14:53:38] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 14:53:38] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 14:53:38] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 14:53:38] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 14:53:38] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 14:54:11] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 14:54:12] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 14:54:13] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 14:54:13] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 14:54:14] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 14:54:14] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 14:54:15] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 14:54:15] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 14:57:57] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 14:57:58] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 14:58:00] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 14:58:00] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 14:58:01] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 14:58:01] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 14:58:02] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 14:58:02] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 15:42:43] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 15:42:44] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:03:27] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 16:03:27] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 16:15:40] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:15:40] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:15:40] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:15:42] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:15:42] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:15:42] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:15:43] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:15:43] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:15:43] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:15:44] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:15:44] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:15:44] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:15:45] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:15:45] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:15:46] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:15:46] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:15:47] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:15:48] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:15:49] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:15:49] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:15:51] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:15:52] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:15:53] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 16:15:54] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 17:53:15] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 18:17:25] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 18:17:25] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 18:20:52] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 18:35:09] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 18:36:01] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 18:54:52] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 23:17:14] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 23:17:15] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 23:17:15] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 23:17:15] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 23:17:16] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 23:17:16] [Warn]Proxy server [(jp5.vip.stormss.online)] connection refused
+[2016-08-27 23:19:33] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:19:33] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:19:33] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:19:34] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:19:34] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:19:34] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:19:35] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:19:35] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:19:35] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:36:11] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 23:36:11] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 23:36:16] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 23:36:16] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 23:36:16] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 23:36:16] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 23:36:16] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 23:36:16] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 23:37:07] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 23:37:07] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 23:38:01] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 23:38:01] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 23:38:01] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 23:38:01] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 23:38:01] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 23:38:01] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 23:38:01] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 23:38:01] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 23:38:01] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 23:38:01] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-08-27 23:38:01] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 23:38:01] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-08-27 23:52:46] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:52:47] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:52:47] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:52:48] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:52:48] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:52:49] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:52:50] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:52:51] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:52:51] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:52:52] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:52:54] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:52:55] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:52:56] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:52:57] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:52:58] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:52:58] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:52:59] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:00] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:00] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:01] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:06] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:07] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:09] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:10] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:11] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:13] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:14] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:15] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:17] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:18] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:19] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:20] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:22] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:23] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:25] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:28] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:30] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:31] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:32] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:34] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:35] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:37] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:38] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:39] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:49] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:50] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:52] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:53] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:54] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:56] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:57] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:53:59] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:55:48] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:55:49] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:55:51] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:55:52] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:55:52] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:55:53] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:55:54] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:55:54] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:55:55] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:55:56] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:55:56] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:55:57] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:55:58] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:55:58] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:55:59] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:56:00] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:56:00] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:56:01] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:56:02] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:56:04] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:56:05] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:56:06] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:56:08] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:56:15] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:56:16] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:56:17] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:56:18] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:57:37] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:57:38] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:57:40] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:57:41] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:57:42] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:57:43] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:57:45] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:57:46] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:57:47] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:57:49] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:57:50] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:57:51] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:57:52] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:57:53] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:57:54] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:57:55] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:57:57] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:57:58] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:57:59] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:58:00] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:58:02] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:58:03] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:58:04] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-27 23:58:05] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-28 01:01:21] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-28 01:01:22] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-28 01:01:22] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-28 01:01:23] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-28 01:01:23] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-28 01:01:24] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-28 01:01:25] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-28 01:01:25] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-28 01:01:26] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-28 02:13:12] ShadowsocksR started
+[2016-08-28 02:43:09] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-28 02:43:09] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-28 02:43:10] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-28 02:43:11] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-28 02:43:12] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-28 02:43:12] [Warn]Proxy server [台湾(60.249.100.177)] connection refused
+[2016-08-28 13:19:06] ShadowsocksR started
+[2016-08-28 13:19:17] [Error]connect to update server error
