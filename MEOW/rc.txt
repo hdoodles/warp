@@ -83,7 +83,7 @@ judgeByIP = false
 #     chacha20, salsa20, rc4, table
 #
 # MEOW:
-   proxy = meow://chacha20:ji9li7..@60.249.100.177:4321
+   proxy = meow://chacha20:ji9li7..@60.249.100.177:8904
 #
 #   authinfo 与 shadowsocks 相同
 
