@@ -2,7 +2,7 @@
 	"configs" : [
 		{
 			"remarks" : "",
-			"server" : "sg.voncop.top",
+			"server" : "sg.vonc.tk",
 			"server_port" : 39440,
 			"server_udp_port" : 0,
 			"password" : "H1AWul",
@@ -18,7 +18,7 @@
 		},
 		{
 			"remarks" : "加拿大CloudAtCost",
-			"server" : "ca.voncop.top",
+			"server" : "ca.vonc.tk",
 			"server_port" : 39440,
 			"server_udp_port" : 0,
 			"password" : "H1AWul",
@@ -34,7 +34,7 @@
 		},
 		{
 			"remarks" : "日本KDDI",
-			"server" : "jp.voncop.top",
+			"server" : "jp.vonc.tk",
 			"server_port" : 39440,
 			"server_udp_port" : 0,
 			"password" : "H1AWul",
@@ -50,7 +50,7 @@
 		},
 		{
 			"remarks" : "美国Alpharacks",
-			"server" : "us3.voncop.top",
+			"server" : "us3.vonc.tk",
 			"server_port" : 39440,
 			"server_udp_port" : 0,
 			"password" : "H1AWul",
@@ -66,7 +66,7 @@
 		},
 		{
 			"remarks" : "美国BudgetVM",
-			"server" : "us2.voncop.top",
+			"server" : "us2.vonc.tk",
 			"server_port" : 39440,
 			"server_udp_port" : 0,
 			"password" : "H1AWul",
@@ -82,7 +82,7 @@
 		},
 		{
 			"remarks" : "美国HostUS",
-			"server" : "us1.voncop.top",
+			"server" : "us1.vonc.tk",
 			"server_port" : 39440,
 			"server_udp_port" : 0,
 			"password" : "H1AWul",
@@ -98,7 +98,7 @@
 		},
 		{
 			"remarks" : "香港LeaseWeb",
-			"server" : "hk.voncop.top",
+			"server" : "hk.vonc.tk",
 			"server_port" : 39440,
 			"server_udp_port" : 0,
 			"password" : "H1AWul",
@@ -146,7 +146,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "tw1.boomss.ml",
+			"server" : "tw1.boomss.tk",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -162,7 +162,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "sg2.boomss.ml",
+			"server" : "sg2.boomss.tk",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -178,7 +178,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "us3.boomss.ml",
+			"server" : "us3.boomss.tk",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -194,7 +194,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "us2.boomss.ml",
+			"server" : "us2.boomss.tk",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -210,7 +210,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "us5.boomss.ml",
+			"server" : "us5.boomss.tk",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -226,7 +226,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "uk.boomss.ml",
+			"server" : "uk.boomss.tk",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -242,7 +242,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "sg3.boomss.ml",
+			"server" : "sg3.boomss.tk",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -258,7 +258,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "sg1.boomss.ml",
+			"server" : "sg1.boomss.tk",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -274,7 +274,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "jp2.boomss.ml",
+			"server" : "jp2.boomss.tk",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -290,7 +290,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "jp1.boomss.ml",
+			"server" : "jp1.boomss.tk",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -306,7 +306,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "cn2.boomss.ml",
+			"server" : "cn2.boomss.tk",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -322,7 +322,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "us4.boomss.ml",
+			"server" : "us4.boomss.tk",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -338,7 +338,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "us1.boomss.ml",
+			"server" : "us1.boomss.tk",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -354,7 +354,7 @@
 		},
 		{
 			"remarks" : "",
-			"server" : "hk4.boomss.ml",
+			"server" : "hk4.boomss.tk",
 			"server_port" : 26927,
 			"server_udp_port" : 0,
 			"password" : "rgTD1H",
@@ -367,86 +367,6 @@
 			"protocol" : "origin",
 			"enable" : true,
 			"id" : "EB7D76E03AC6CBD6604CD94964A12D7D"
-		},
-		{
-			"remarks" : "",
-			"server" : "sg5.vip.stormss.online",
-			"server_port" : 16085,
-			"server_udp_port" : 0,
-			"password" : "RSruSP",
-			"method" : "aes-256-cfb",
-			"obfs" : "plain",
-			"obfsparam" : "",
-			"remarks_base64" : "",
-			"group" : "stormss",
-			"udp_over_tcp" : false,
-			"protocol" : "origin",
-			"enable" : true,
-			"id" : "4977CBBF41B78A3FE72BDD1AD2AA7177"
-		},
-		{
-			"remarks" : "",
-			"server" : "jp5.vip.stormss.online",
-			"server_port" : 16085,
-			"server_udp_port" : 0,
-			"password" : "RSruSP",
-			"method" : "aes-256-cfb",
-			"obfs" : "plain",
-			"obfsparam" : "",
-			"remarks_base64" : "",
-			"group" : "stormss",
-			"udp_over_tcp" : false,
-			"protocol" : "origin",
-			"enable" : true,
-			"id" : "31BA93F17D11FFA282F972944FAD8994"
-		},
-		{
-			"remarks" : "",
-			"server" : "us5.vip.stormss.online",
-			"server_port" : 16085,
-			"server_udp_port" : 0,
-			"password" : "RSruSP",
-			"method" : "aes-256-cfb",
-			"obfs" : "plain",
-			"obfsparam" : "",
-			"remarks_base64" : "",
-			"group" : "stormss",
-			"udp_over_tcp" : false,
-			"protocol" : "origin",
-			"enable" : true,
-			"id" : "42194D91710E740424D0F11282276AAC"
-		},
-		{
-			"remarks" : "",
-			"server" : "hk5.vip.stormss.online",
-			"server_port" : 16085,
-			"server_udp_port" : 0,
-			"password" : "RSruSP",
-			"method" : "aes-256-cfb",
-			"obfs" : "plain",
-			"obfsparam" : "",
-			"remarks_base64" : "",
-			"group" : "stormss",
-			"udp_over_tcp" : false,
-			"protocol" : "origin",
-			"enable" : true,
-			"id" : "594A2099FAFE88D6EBCDA6C02DC06691"
-		},
-		{
-			"remarks" : "",
-			"server" : "kr5.vip.stormss.online",
-			"server_port" : 16085,
-			"server_udp_port" : 0,
-			"password" : "RSruSP",
-			"method" : "aes-256-cfb",
-			"obfs" : "plain",
-			"obfsparam" : "",
-			"remarks_base64" : "",
-			"group" : "stormss",
-			"udp_over_tcp" : false,
-			"protocol" : "origin",
-			"enable" : true,
-			"id" : "A42B6E000001F88F3B352CFDF555AFA1"
 		},
 		{
 			"remarks" : "",
@@ -529,7 +449,7 @@
 			"id" : "F9919F526C32B2209CA310B73BEC54A3"
 		},
 		{
-			"remarks" : "",
+			"remarks" : "DRL",
 			"server" : "209.141.58.145",
 			"server_port" : 30009,
 			"server_udp_port" : 0,
@@ -537,28 +457,12 @@
 			"method" : "rc4-md5",
 			"obfs" : "plain",
 			"obfsparam" : "",
-			"remarks_base64" : "",
-			"group" : "",
+			"remarks_base64" : "RFJM",
+			"group" : "DRL",
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
 			"enable" : true,
 			"id" : "D2F2D14C5423DA09FA24C6AD03555008"
-		},
-		{
-			"remarks" : "",
-			"server" : "139.162.30.235",
-			"server_port" : 8904,
-			"server_udp_port" : 0,
-			"password" : "ji9li7..",
-			"method" : "aes-256-cfb",
-			"obfs" : "tls1.2_ticket_auth",
-			"obfsparam" : "",
-			"remarks_base64" : "",
-			"group" : "SELF",
-			"udp_over_tcp" : false,
-			"protocol" : "auth_sha1_v2",
-			"enable" : true,
-			"id" : "8FB5B4A54C38F1F6E81E0416409F7323"
 		},
 		{
 			"remarks" : "台湾",
@@ -575,26 +479,10 @@
 			"protocol" : "auth_sha1_v2",
 			"enable" : true,
 			"id" : "FE58A6317280BEEF68B8E4587E111D0C"
-		},
-		{
-			"remarks" : "",
-			"server" : "server ip or url",
-			"server_port" : 8388,
-			"server_udp_port" : 0,
-			"password" : "0",
-			"method" : "aes-256-cfb",
-			"obfs" : "plain",
-			"obfsparam" : "",
-			"remarks_base64" : "",
-			"group" : null,
-			"udp_over_tcp" : false,
-			"protocol" : "origin",
-			"enable" : true,
-			"id" : "AA66F1DEFDE7000AE3F173A162EF60E4"
 		}
 	],
-	"index" : 35,
-	"random" : false,
+	"index" : 9,
+	"random" : true,
 	"global" : true,
 	"enabled" : false,
 	"shareOverLan" : false,
@@ -602,7 +490,7 @@
 	"bypassWhiteList" : false,
 	"localPort" : 2046,
 	"reconnectTimes" : 3,
-	"randomAlgorithm" : 4,
+	"randomAlgorithm" : 0,
 	"TTL" : 0,
 	"proxyEnable" : false,
 	"pacDirectGoProxy" : false,
