@@ -3,6 +3,8 @@ v.center
 45.32.44.97
 splashtop.com
 exhentai.org
+www.dmm.co.jp
+www.dmm.com
 
 
 391la.com
@@ -106,14 +108,6 @@ ipmtea.net
 wubaiyi.com
 tongyi.com
 5179mt.com
-=======
-www.dmm.co.jp
-www.dmm.com
-
-
-
-
-
 com.cn
 edu.cn
 org.cn
