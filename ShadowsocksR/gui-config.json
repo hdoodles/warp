@@ -476,17 +476,15 @@
 			"remarks_base64" : "5Y-w5rm-",
 			"group" : "SELF",
 			"udp_over_tcp" : false,
-			"protocol" : "auth_sha1_v2",
+			"protocol" : "auth_sha1_v3",
 			"enable" : true,
 			"id" : "FE58A6317280BEEF68B8E4587E111D0C"
 		}
 	],
 	"index" : 29,
 	"random" : false,
-	"global" : true,
-	"enabled" : false,
+	"sysProxyMode" : 0,
 	"shareOverLan" : false,
-	"isDefault" : false,
 	"bypassWhiteList" : false,
 	"localPort" : 2046,
 	"reconnectTimes" : 3,
@@ -505,6 +503,7 @@
 	"autoBan" : false,
 	"sameHostForSameTarget" : false,
 	"keepVisitTime" : 180,
+	"isHideTips" : false,
 	"dns_server" : "",
 	"token" : {
 
