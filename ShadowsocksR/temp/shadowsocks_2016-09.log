@@ -563,3 +563,103 @@ Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapp
 [2016-09-14 11:36:19] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
 [2016-09-14 11:36:20] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
 [2016-09-14 11:36:20] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 14:45:21] [Info]Proxy server [台湾(60.249.100.177)] HostUnreachable:套接字操作尝试一个无法连接的主机。 60.249.100.177:7000
+[2016-09-14 14:45:21] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-09-14 14:45:21] [Info]Proxy server [台湾(60.249.100.177)] HostUnreachable:套接字操作尝试一个无法连接的主机。 60.249.100.177:7000
+[2016-09-14 14:45:21] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-09-14 14:45:21] [Info]Proxy server [台湾(60.249.100.177)] HostUnreachable:套接字操作尝试一个无法连接的主机。 60.249.100.177:7000
+[2016-09-14 14:45:21] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-09-14 14:45:21] [Info]Proxy server [台湾(60.249.100.177)] HostUnreachable:套接字操作尝试一个无法连接的主机。 60.249.100.177:7000
+[2016-09-14 14:45:21] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-09-14 15:54:15] [Info]Proxy server [台湾(60.249.100.177)] HostUnreachable:套接字操作尝试一个无法连接的主机。 60.249.100.177:7000
+[2016-09-14 15:54:23] [Info]Proxy server [台湾(60.249.100.177)] HostUnreachable:套接字操作尝试一个无法连接的主机。 60.249.100.177:7000
+[2016-09-14 15:54:23] [Info]Proxy server [台湾(60.249.100.177)] HostUnreachable:套接字操作尝试一个无法连接的主机。 60.249.100.177:7000
+[2016-09-14 15:54:23] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-09-14 15:54:23] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-09-14 15:54:23] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-09-14 15:56:51] [Error]connect to update server error
+[2016-09-14 23:22:37] ShadowsocksR started on port 2046
