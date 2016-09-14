@@ -301,3 +301,265 @@ Void ProtectedInvokeCallback(System.Object, IntPtr)
 Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
 Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
 
+[2016-09-12 22:46:17] ShadowsocksR started on port 2046
+[2016-09-13 09:24:52] [Error]connect to update server error
+[2016-09-13 14:50:20] [Error]connect to update server error
+[2016-09-13 16:53:04] [Error]connect to update server error
+[2016-09-13 18:56:01] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-09-13 18:56:01] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-09-13 19:07:58] ShadowsocksR started on port 2046
+[2016-09-13 19:08:08] [Error]connect to update server error
+[2016-09-13 19:39:23] ShadowsocksR started on port 2046
+[2016-09-13 19:45:43] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.HttpPortForwarder.Handler.PipeConnectionReceiveCallback(IAsyncResult ar)
+[2016-09-13 19:45:43] Void LogUsefulException(System.Exception)
+Void PipeConnectionReceiveCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-09-14 03:02:55] [Info]Proxy server [台湾(60.249.100.177)] HostUnreachable:套接字操作尝试一个无法连接的主机。 60.249.100.177:7000
+[2016-09-14 03:02:55] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-09-14 03:02:55] [Info]Proxy server [台湾(60.249.100.177)] HostUnreachable:套接字操作尝试一个无法连接的主机。 60.249.100.177:7000
+[2016-09-14 03:02:55] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-09-14 03:02:55] [Info]Proxy server [台湾(60.249.100.177)] HostUnreachable:套接字操作尝试一个无法连接的主机。 60.249.100.177:7000
+[2016-09-14 03:02:55] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-09-14 03:02:55] [Info]Proxy server [台湾(60.249.100.177)] HostUnreachable:套接字操作尝试一个无法连接的主机。 60.249.100.177:7000
+[2016-09-14 03:02:55] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-09-14 11:26:22] [Info]Proxy server [台湾(60.249.100.177)] HostUnreachable:套接字操作尝试一个无法连接的主机。 60.249.100.177:7000
+[2016-09-14 11:26:30] [Info]Proxy server [台湾(60.249.100.177)] HostUnreachable:套接字操作尝试一个无法连接的主机。 60.249.100.177:7000
+[2016-09-14 11:26:30] [Info]Proxy server [台湾(60.249.100.177)] HostUnreachable:套接字操作尝试一个无法连接的主机。 60.249.100.177:7000
+[2016-09-14 11:26:30] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-09-14 11:26:30] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-09-14 11:26:30] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Boolean CaptureOrComplete(System.Threading.ExecutionContext ByRef, Boolean)
+Boolean FinishPostingAsyncOp(System.Net.CallbackClosure ByRef)
+System.IAsyncResult BeginConnectEx(System.Net.EndPoint, Boolean, System.AsyncCallback, System.Object)
+System.IAsyncResult BeginConnect(System.Net.EndPoint, System.AsyncCallback, System.Object)
+Void BeginConnect(System.Net.IPAddress, Int32)
+Void Connect()
+Void Start(Byte[], Int32)
+Void Connect()
+Void StartConnect(System.IAsyncResult)
+Void Complete(IntPtr)
+Void CompleteCallback(System.Object)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-09-14 11:27:45] [Error]connect to update server error
+[2016-09-14 11:32:36] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:39] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:39] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:39] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:40] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:40] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:40] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:41] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:41] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:46] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:46] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:49] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:49] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:49] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:50] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:50] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:50] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:50] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:51] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:51] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:51] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:51] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:51] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:51] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:51] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:51] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:51] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:51] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:51] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:51] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:53] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:53] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:53] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:53] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:53] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:54] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:32:54] [Error]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] ClientDecode data error
+[2016-09-14 11:35:42] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:35:43] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:35:45] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:35:45] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:35:46] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:35:46] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:35:47] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:35:49] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:05] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:06] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:07] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:08] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:12] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:12] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:12] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:12] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:12] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:12] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:12] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:12] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:14] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:14] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:14] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:14] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:14] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:14] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:14] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:14] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:14] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:14] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:14] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:15] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:15] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:15] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:15] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:15] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:15] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:15] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:15] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:15] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:15] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:15] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:15] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:16] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:16] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:16] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:16] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:16] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:16] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:16] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:16] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:16] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:16] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:16] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:16] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:16] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:16] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:16] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:16] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:17] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:17] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:17] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:17] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:17] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:17] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:17] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:17] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:17] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:18] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:18] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:18] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:18] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:19] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:19] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:19] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:19] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:19] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:20] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused
+[2016-09-14 11:36:20] [Warn]Proxy server [app.arukas.io(seaof-153-125-234-147.jp-tokyo-09.arukascloud.io)] connection refused

@@ -482,8 +482,8 @@
 		},
 		{
 			"remarks" : "app.arukas.io",
-			"server" : "seaof-153-125-234-147.jp-tokyo-09.arukascloud.io",
-			"server_port" : 31712,
+			"server" : "seaof-153-125-234-178.jp-tokyo-10.arukascloud.io",
+			"server_port" : 31293,
 			"server_udp_port" : 0,
 			"password" : "ji9li7..",
 			"method" : "aes-256-cfb",
@@ -497,7 +497,7 @@
 			"id" : "A43BDF4DC98C24213CECE979F25FB049"
 		}
 	],
-	"index" : 30,
+	"index" : 29,
 	"random" : false,
 	"sysProxyMode" : 0,
 	"shareOverLan" : false,
@@ -506,6 +506,7 @@
 	"reconnectTimes" : 3,
 	"randomAlgorithm" : 0,
 	"TTL" : 0,
+	"connect_timeout" : 0,
 	"proxyEnable" : false,
 	"pacDirectGoProxy" : false,
 	"proxyType" : 0,
