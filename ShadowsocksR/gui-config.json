@@ -482,19 +482,19 @@
 		},
 		{
 			"remarks" : "app.arukas.io",
-			"server" : "seaof-153-125-234-178.jp-tokyo-10.arukascloud.io",
-			"server_port" : 31293,
+			"server" : "seaof-153-125-235-209.jp-tokyo-15.arukascloud.io",
+			"server_port" : 31310,
 			"server_udp_port" : 0,
 			"password" : "ji9li7..",
 			"method" : "aes-256-cfb",
-			"obfs" : "tls1.2_ticket_auth",
+			"obfs" : "plain",
 			"obfsparam" : "",
 			"remarks_base64" : "YXBwLmFydWthcy5pbw==",
 			"group" : "SELF",
 			"udp_over_tcp" : false,
-			"protocol" : "auth_sha1_v2",
+			"protocol" : "origin",
 			"enable" : true,
-			"id" : "A43BDF4DC98C24213CECE979F25FB049"
+			"id" : "82E1DD7EDF1981E956B21CC35F383C4C"
 		}
 	],
 	"index" : 29,
